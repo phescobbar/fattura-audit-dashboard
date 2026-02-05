@@ -1,0 +1,27 @@
+# DIRETRIZES DE AUDITORIA DE CADASTRO - ZIPINHO (V3)
+
+Estas diretrizes foram ajustadas para separar erros de "Cadastro de Serviço/Plano" de erros de "Cadastro de Cobrança Individual", otimizando a correção em massa.
+
+## 1. ESCOPO
+- Apenas registros com **situacao == 50** (Ativo) são analisados.
+
+## 2. CATEGORIAS DE ERRO
+
+### A. Erros de Cadastro do Plano (Consolidados no Resumo Final)
+Estes erros indicam problemas na tabela de serviços base. Não serão repetidos em cada linha do relatório individual.
+- **vOrig Zerado:** Quando o valor original do serviço base está como 0, mas há cobrança ativa.
+- **Consistência ARR (vTotalAnoUm):** Quando o cálculo de ARR do plano base parece incoerente com a periodicidade.
+
+### B. Erros de Cadastro da Habilitação (Relatório Individual CSV)
+Estes são erros específicos daquele cliente/habilitação que o usuário operou manualmente.
+- **URL de Contrato Ausente:** Todo cliServ ativo deve possuir `urlContrato`.
+- **Divergência vOrig vs vCobr (>30%):** Quando o usuário aplicou um desconto ou alteração manual excessiva na ativação.
+- **Gap de Cobrança (>40 dias):** Para Mensal (M) ou Parcelado (P), quando a próxima cobrança está fora do prazo lógico em relação à última.
+- **Datas Inválidas:** Próxima cobrança como "0000-00-00" ou em um futuro impossível (> 2 anos).
+
+## 3. FORMATO DO RESULTADO
+1. **Relatório CSV:** Contendo apenas os erros individuais (Habilitação).
+2. **Resumo Executivo (Texto):** Listando os nomes dos planos que precisam de correção na tabela base.
+
+---
+**STATUS:** Aguardando comando explícito para rodar a auditoria.

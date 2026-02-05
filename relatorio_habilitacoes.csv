@@ -1,0 +1,1133 @@
+codigo,codCliente,descricao,alerta
+4,100000,NFe+,URL Contrato Ausente | Diferença Valor (82.7%)
+11,100004,eGestor 4 - Bronze,URL Contrato Ausente | Diferença Valor (71.4%)
+12,100005,eGestor 4 - Bronze,URL Contrato Ausente
+14,100007,eGestor 4 - Ultra,URL Contrato Ausente
+17,100008,Site institucional,URL Contrato Ausente
+22,100009,eGestor 4 - Bronze,Diferença Valor (50.2%) | Gap Cobrança (62 dias)
+35,100015,eGestor 4 - Bronze,Diferença Valor (50.1%)
+59,100032,eGestor 4 - Ultra,Diferença Valor (30.0%)
+62,100034,eGestor 4 - Bronze,Diferença Valor (36.4%)
+72,100042,eGestor 4 - Bronze,Diferença Valor (36.4%)
+90,100058,eGestor 4 - Plano Iniciante,Diferença Valor (30.0%)
+92,100061,NFe+ Básico,Diferença Valor (32.0%)
+93,100060,Revenda eGestor 4 - Avançado,URL Contrato Ausente | Diferença Valor (100.0%)
+95,100060,Revenda NFe+,URL Contrato Ausente
+100,100066,Site institucional,Diferença Valor (62.5%)
+105,100071,NFe+ Básico,URL Contrato Ausente
+110,100074,NFe+ Básico,URL Contrato Ausente
+112,100077,NFe+ Básico,URL Contrato Ausente
+118,100082,Revenda Básico NFe+,Diferença Valor (400.0%)
+119,100084,NFe+ Básico,URL Contrato Ausente
+121,100086,NFe+ Básico,URL Contrato Ausente | Gap Cobrança (90 dias)
+123,100088,eGestor 4 - Ultra,URL Contrato Ausente
+124,100089,Nfe+ Ilimitado,URL Contrato Ausente
+125,100090,eGestor 4 - Plano Iniciante,URL Contrato Ausente
+130,100095,eGestor 4 - Ultra,URL Contrato Ausente
+135,100100,NFe+ Básico,URL Contrato Ausente
+136,100101,eGestor 4 - Plano Iniciante,URL Contrato Ausente
+145,100106,eGestor 4 - Avançado,Diferença Valor (31.7%)
+146,100107,Revenda eGestor 4 - Ultra,Diferença Valor (460.0%)
+152,100113,NFe+ Básico,URL Contrato Ausente
+155,100116,eGestor 4 - Ultra,URL Contrato Ausente
+162,100123,Site institucional,Diferença Valor (62.5%)
+164,100104,NFe+ Básico,URL Contrato Ausente
+175,100128,Nfe+ Ilimitado,URL Contrato Ausente
+176,100133,Revenda eGestor 4 - Ultra,Diferença Valor (438.3%)
+177,100135,Revenda Básico NFe+,URL Contrato Ausente | Diferença Valor (433.3%)
+180,100134,eGestor 4 - Básico,URL Contrato Ausente | Diferença Valor (83.2%)
+182,100139,NFe+ Básico,URL Contrato Ausente
+183,100140,eGestor 4 - Bronze,URL Contrato Ausente
+192,100149,NFe+ Básico,URL Contrato Ausente
+208,100140,Site institucional,URL Contrato Ausente
+222,100171,Revenda NFe+,URL Contrato Ausente | Diferença Valor (200.0%)
+225,100174,Revenda eGestor 4 - Ultra,URL Contrato Ausente | Diferença Valor (100.2%)
+229,100177,Revenda Básico NFe+,Diferença Valor (449.0%)
+230,100167,Revenda eGestor 4 - Ultra,URL Contrato Ausente | Diferença Valor (100.2%)
+233,100181,eGestor 4 - Plano Ultra,URL Contrato Ausente
+234,100182,eGestor 4 - Plano Avançado,URL Contrato Ausente | Diferença Valor (30.0%)
+236,100184,eGestor 4 - Módulo NFe,Diferença Valor (79.0%)
+237,100184,eGestor 4 - Módulo NFCe,Diferença Valor (79.0%)
+242,100187,eGestor 4 - Plano Ultra,Diferença Valor (30.0%)
+244,100188,Revenda NFeMais - Plano Ilimitado,URL Contrato Ausente | Diferença Valor (200.0%)
+245,100189,Old eGestor 4 - Basic,URL Contrato Ausente | Diferença Valor (150.3%)
+247,100191,NFeMais - Plano Ilimitado,URL Contrato Ausente
+250,100194,eGestor 4 - Plano Ultra,Gap Cobrança (95 dias)
+252,100196,eGestor 4 - Plano Ultra,Diferença Valor (30.0%)
+255,100199,NFeMais - Plano Básico,URL Contrato Ausente
+257,100201,NFeMais - Plano Básico,URL Contrato Ausente
+259,100203,Revenda eGestor 4 - Plano Avançado,Diferença Valor (220.0%)
+262,100206,NFeMais - Plano Básico,URL Contrato Ausente
+267,100211,NFeMais - Plano Básico,URL Contrato Ausente
+268,100213,NFeMais - Plano Ilimitado,URL Contrato Ausente
+270,100177,Revenda Site - Parceiro,Diferença Valor (33.3%)
+275,100218,eGestor 4 - Plano Ultra,URL Contrato Ausente | Gap Cobrança (68 dias)
+285,100225,eGestor 4 - Plano Iniciante,Diferença Valor (30.0%)
+290,100229,Revenda eGestor 4 - Plano Ultra,Diferença Valor (130.9%)
+294,100229,Revenda Site - Parceiro,URL Contrato Ausente | Diferença Valor (33.3%)
+295,100234,NFeMais - Plano Iniciante,URL Contrato Ausente
+298,100236,eGestor 4 - Plano Iniciante,Diferença Valor (38.1%)
+300,100183,GetCommerce,Diferença Valor (33.1%)
+314,100249,NFeMais - Plano Básico,URL Contrato Ausente
+315,100250,eGestor 4 - Plano Bronze,URL Contrato Ausente
+319,100099,eGestor 4 - Plano Ouro,URL Contrato Ausente
+339,100267,NFeMais - Plano Ilimitado,URL Contrato Ausente | Gap Cobrança (92 dias)
+346,100276,NFeMais - Plano Básico,URL Contrato Ausente
+349,100278,NFeMais - Plano Básico,URL Contrato Ausente
+351,100280,NFeMais - Plano Básico,URL Contrato Ausente
+352,100281,NFeMais - Plano Básico,URL Contrato Ausente
+354,100285,NFeMais - Plano Básico,URL Contrato Ausente
+361,100291,Revenda eGestor 4 - Plano Ultra,Diferença Valor (130.9%)
+369,100296,eGestor 4 - Plano Avançado,Diferença Valor (30.0%)
+372,100300,NFeMais - Plano Básico,URL Contrato Ausente
+378,100303,NFeMais - Plano Básico,URL Contrato Ausente
+380,100203,Revenda NFeMais - Plano Básico,URL Contrato Ausente | Diferença Valor (33.3%)
+387,100310,Revenda NFeMais - Plano Básico,Diferença Valor (300.0%)
+389,100312,Revenda NFeMais - Plano Básico,URL Contrato Ausente | Diferença Valor (400.0%)
+390,100313,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (400.0%)
+391,100314,NFeMais - Plano Básico,URL Contrato Ausente
+392,100313,Revenda eGestor 4 - Bônus Parceiro,URL Contrato Ausente
+396,100317,NFeMais - Plano Básico,URL Contrato Ausente
+401,100323,NFeMais - Plano Básico,URL Contrato Ausente
+402,100265,eGestor 4 - Plano Avançado,Gap Cobrança (365 dias)
+407,100327,NFeMais - Plano Básico,URL Contrato Ausente
+408,100328,eGestor 4 - Plano Avançado,Diferença Valor (30.0%)
+409,100329,eGestor 4 - Plano Avançado,URL Contrato Ausente | Gap Cobrança (365 dias)
+410,100331,NFeMais - Plano Ilimitado,URL Contrato Ausente
+411,100332,eGestor 4 - Plano Avançado,URL Contrato Ausente | Gap Cobrança (365 dias)
+412,100333,eGestor 4 - Plano Avançado,URL Contrato Ausente | Gap Cobrança (365 dias)
+413,100334,NFeMais - Plano Básico,URL Contrato Ausente
+414,100335,NFeMais - Plano Ilimitado,Gap Cobrança (365 dias)
+415,100336,NFeMais - Plano Básico,URL Contrato Ausente
+418,100338,NFeMais - Plano Básico,URL Contrato Ausente
+426,100343,eGestor 4 - Plano Ultra,URL Contrato Ausente
+427,100326,Revenda NFeMais - Plano Ilimitado,URL Contrato Ausente | Diferença Valor (200.0%)
+429,100344,Revenda eGestor 4 - Plano Avançado,Diferença Valor (300.0%)
+433,100348,NFeMais - Plano Básico,URL Contrato Ausente
+434,100156,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+435,100349,Revenda eGestor 4 - Plano Ultra,Diferença Valor (130.9%)
+439,100352,NFeMais - Plano Básico,URL Contrato Ausente
+441,100349,Revenda eGestor 4 - Bônus Parceiro,URL Contrato Ausente
+442,100353,Revenda NFeMais - Plano Básico,URL Contrato Ausente | Diferença Valor (433.3%)
+443,100354,Revenda eGestor 4 - Plano Ultra,Diferença Valor (284.9%)
+444,100355,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (54.0%)
+446,100357,NFeMais - Plano Básico,Gap Cobrança (92 dias)
+447,100358,NFeMais - Plano Básico,URL Contrato Ausente
+448,100359,eGestor 4 - Plano Ultra,URL Contrato Ausente
+449,100360,NFeMais - Plano Básico,URL Contrato Ausente
+450,100361,NFeMais - Plano Básico,URL Contrato Ausente
+451,100363,NFeMais - Plano Básico,URL Contrato Ausente
+455,100364,Revenda eGestor 4 - Plano Avançado,URL Contrato Ausente | Diferença Valor (100.0%)
+456,100364,Revenda eGestor 4 - Plano Avançado,URL Contrato Ausente | Diferença Valor (100.0%)
+464,100355,Revenda eGestor 4 - Bônus Parceiro,URL Contrato Ausente
+465,100374,eGestor 4 - Plano Ultra,URL Contrato Ausente
+478,100384,NFeMais - Plano Básico,URL Contrato Ausente
+479,100385,NFeMais - Plano Básico,URL Contrato Ausente
+480,100386,NFeMais - Plano Ilimitado,URL Contrato Ausente
+482,100214,eGestor 4 - Plano Iniciante,URL Contrato Ausente | Diferença Valor (52.4%)
+484,100388,eGestor 4 - Plano Ultra,Diferença Valor (30.0%)
+485,100389,eGestor 4 - Plano Ultra,Diferença Valor (30.0%)
+486,100390,NFeMais - Plano Básico,URL Contrato Ausente
+488,100392,NFeMais - Plano Básico,URL Contrato Ausente
+491,100395,NFeMais - Plano Básico,URL Contrato Ausente
+496,100399,eGestor 4 - Plano Avançado,Gap Cobrança (365 dias)
+501,100402,eGestor 4 - Módulo NFe,URL Contrato Ausente | Diferença Valor (100.0%)
+504,100188,Revenda eGestor 4 - Bônus Parceiro,URL Contrato Ausente
+507,100405,NFeMais - Plano Básico,URL Contrato Ausente
+519,100373,eGestor 4 - Plano Ouro,URL Contrato Ausente | Diferença Valor (46.7%)
+520,100414,NFeMais - Plano Básico,URL Contrato Ausente
+521,100275,NFeMais - Plano Ilimitado,Gap Cobrança (365 dias)
+530,100418,eGestor 4 - Módulo PDV,Diferença Valor (52.2%)
+532,100420,NFeMais - Plano Básico,URL Contrato Ausente
+536,100422,NFeMais - Plano Básico,URL Contrato Ausente
+538,100424,Revenda eGestor 4 - Plano Avançado,Diferença Valor (59.8%)
+539,100424,Revenda eGestor 4 - Plano Avançado,Diferença Valor (59.8%)
+542,100426,NFeMais - Plano Ilimitado,URL Contrato Ausente
+545,100429,NFeMais - Plano Básico,URL Contrato Ausente
+555,100439,NFeMais - Plano Básico,URL Contrato Ausente
+556,100402,eGestor 4 - Plano Bronze,URL Contrato Ausente | Diferença Valor (45.5%) | Gap Cobrança (62 dias)
+563,100446,eGestor 4 - Plano Avançado,URL Contrato Ausente | Diferença Valor (36.6%)
+566,100449,NFeMais - Plano Básico,URL Contrato Ausente
+568,100321,eGestor 4 - Plano Iniciante,URL Contrato Ausente
+586,100456,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+587,100456,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+588,100456,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+589,100456,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+590,100456,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+592,100283,eGestor 4 - Plano Ouro,URL Contrato Ausente
+596,100458,Revenda NFeMais - Plano Básico,Diferença Valor (50.0%)
+597,100458,Revenda NFeMais - Plano Básico,Diferença Valor (50.0%)
+598,100458,Revenda NFeMais - Plano Básico,Diferença Valor (50.0%)
+599,100458,Revenda NFeMais - Plano Básico,Diferença Valor (50.0%)
+603,100391,NFeMais - Plano Básico,URL Contrato Ausente
+606,100463,NFeMais - Plano Básico,URL Contrato Ausente
+618,100467,Revenda eGestor 4 - Plano Avançado,Diferença Valor (99.8%)
+619,100467,Revenda eGestor 4 - Plano Avançado,Diferença Valor (99.8%)
+622,100470,eGestor 4 - Plano Iniciante,Diferença Valor (40.4%)
+623,100472,eGestor 4 - Plano Iniciante,Diferença Valor (40.4%)
+638,100482,NFeMais - Plano Básico,URL Contrato Ausente
+639,100483,NFeMais - Plano Básico,URL Contrato Ausente
+640,100484,Revenda eGestor 4 - Plano Avançado,Diferença Valor (99.8%)
+641,100484,Revenda eGestor 4 - Plano Avançado,Diferença Valor (99.8%)
+644,100488,NFeMais - Plano Básico,URL Contrato Ausente
+654,100455,eGestor 4 - Módulo PDV,URL Contrato Ausente
+662,100341,eGestor 4 - Plano Ultra,URL Contrato Ausente
+665,100232,eGestor 4 - Adicional Espaço Disco Virtual,URL Contrato Ausente
+667,100501,eGestor 4 - Plano Bronze,Diferença Valor (42.4%)
+670,100503,NFeMais - Plano Ilimitado,URL Contrato Ausente
+676,100507,eGestor 4 - Plano Iniciante,Diferença Valor (30.0%)
+693,100517,NFeMais - Plano Básico,URL Contrato Ausente
+707,100529,eGestor 4 - Plano Iniciante,Diferença Valor (35.2%)
+716,100536,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+717,100536,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+718,100536,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+719,100536,Revenda NFeMais - Plano Ilimitado,URL Contrato Ausente
+720,100536,Revenda NFeMais - Plano Ilimitado,URL Contrato Ausente
+723,100539,eGestor 4 - Plano Avançado,Diferença Valor (30.0%)
+736,100548,NFeMais - Plano Ilimitado,URL Contrato Ausente
+738,100549,Site Institucional,URL Contrato Ausente
+754,100560,eGestor 4 - Módulo PDV,Diferença Valor (50.2%)
+755,100562,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+756,100562,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+757,100562,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+772,100571,Revenda NFeMais - Plano Básico,URL Contrato Ausente
+773,100571,Revenda NFeMais - Plano Básico,URL Contrato Ausente
+774,100571,Revenda NFeMais - Plano Básico,URL Contrato Ausente
+775,100571,Revenda NFeMais - Plano Básico,URL Contrato Ausente
+780,100575,eGestor 4 - Plano Padrão,URL Contrato Ausente
+785,100581,eGestor 4 - Plano Iniciante,Diferença Valor (30.0%)
+787,100413,NFeMais - Plano Básico,URL Contrato Ausente
+788,100582,NFeMais - Plano Básico,URL Contrato Ausente
+789,100583,NFeMais - Plano Básico,URL Contrato Ausente
+790,100584,NFeMais - Plano Básico,URL Contrato Ausente
+793,100586,eGestor 4 - Adicional Usuários,Diferença Valor (80.0%)
+794,100587,Revenda eGestor 4 - Plano Ultra,Gap Cobrança (61 dias)
+795,100587,Revenda eGestor 4 - Plano Ultra,Gap Cobrança (61 dias)
+796,100587,Revenda eGestor 4 - Plano Ultra,Gap Cobrança (61 dias)
+803,100594,eGestor 4 - Plano Avançado,Diferença Valor (40.0%)
+809,100601,NFeMais - Plano Ilimitado,URL Contrato Ausente
+810,100156,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+811,100156,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+824,100607,GetCommerce,Diferença Valor (33.1%)
+825,100608,NFeMais - Plano Básico,URL Contrato Ausente
+826,100609,NFeMais - Plano Básico,URL Contrato Ausente
+828,100585,eGestor 4 - Plano Iniciante,URL Contrato Ausente
+830,100610,eGestor 4 - Plano Ultra,Diferença Valor (40.0%)
+834,100520,eGestor 4 - Plano Ouro,URL Contrato Ausente
+835,100614,NFeMais - Plano Básico,URL Contrato Ausente
+836,100613,eGestor 4 - Plano Avançado,URL Contrato Ausente | Diferença Valor (32.0%)
+837,100613,Site Institucional,URL Contrato Ausente
+838,100615,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+839,100615,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+843,100619,eGestor 4 - Plano Bronze,Diferença Valor (63.7%)
+844,100620,eGestor 4 - Plano Avançado,Diferença Valor (40.0%)
+847,100622,eGestor 4 - Plano Avançado,Diferença Valor (40.0%)
+848,100624,eGestor 4 - Plano Iniciante,Diferença Valor (57.2%)
+859,100626,NFeMais - Plano Básico,URL Contrato Ausente
+860,100342,NFeMais - Plano Ilimitado,URL Contrato Ausente
+862,100628,eGestor 4 - Plano Ultra,Diferença Valor (40.0%)
+863,100629,Revenda NFeMais - Plano Ilimitado,Diferença Valor (51.8%)
+864,100629,Revenda NFeMais - Plano Ilimitado,Diferença Valor (51.8%)
+865,100629,Revenda NFeMais - Plano Ilimitado,Diferença Valor (51.8%)
+866,100629,Revenda NFeMais - Plano Ilimitado,Diferença Valor (51.8%)
+868,100633,NFeMais - Plano Básico,URL Contrato Ausente
+881,100636,eGestor 4 - Módulo NFSe,Diferença Valor (37.8%)
+883,100638,NFeMais - Plano Básico,URL Contrato Ausente
+884,100639,NFeMais - Plano Básico,URL Contrato Ausente
+888,100643,NFeMais - Plano Básico,Diferença Valor (30.0%)
+896,100485,eGestor 4 - Adicional Espaço Disco Virtual,URL Contrato Ausente
+898,100651,NFeMais - Plano Ilimitado,URL Contrato Ausente
+908,100659,NFeMais - Plano Ilimitado,URL Contrato Ausente
+912,100663,eGestor 4 - Plano Avançado,URL Contrato Ausente
+916,100666,eGestor 4 - Plano Ouro,Diferença Valor (30.0%)
+917,100667,NFeMais - Plano Básico,URL Contrato Ausente
+927,100673,eGestor 4 - Adicional Usuários,Diferença Valor (80.0%)
+928,100674,eGestor 4 - Plano Avançado,URL Contrato Ausente
+936,100682,eGestor 4 - Plano Avançado,URL Contrato Ausente
+937,100683,NFeMais - Plano Básico,URL Contrato Ausente
+939,100685,eGestor 4 - Plano Ultra,Diferença Valor (40.0%)
+947,100688,eGestor 4 - Plano Avançado,Diferença Valor (30.0%)
+948,100689,NFeMais - Plano Básico,URL Contrato Ausente
+956,100694,eGestor 4 - Plano Avançado,Diferença Valor (35.0%)
+957,100695,NFeMais - Plano Básico,URL Contrato Ausente
+958,100696,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+959,100696,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+961,100698,NFeMais - Plano Básico,URL Contrato Ausente
+963,100700,eGestor 4 - Plano Bronze,URL Contrato Ausente
+964,100700,eGestor 4 - Módulo NFCe,URL Contrato Ausente | Diferença Valor (57.9%)
+969,100705,NFeMais - Plano Básico,URL Contrato Ausente
+973,100706,NFeMais - Plano Básico,URL Contrato Ausente
+983,100660,eGestor 4 - Módulo NFe,Diferença Valor (100.0%)
+987,100718,eGestor 4 - Plano Avançado,Diferença Valor (32.0%)
+989,100719,NFeMais - Plano Básico,URL Contrato Ausente
+991,100721,NFeMais - Plano Ilimitado,URL Contrato Ausente
+992,100722,NFeMais - Plano Básico,URL Contrato Ausente
+994,100724,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+995,100724,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+996,100404,NFeMais - Plano Ilimitado,URL Contrato Ausente
+1005,100665,Revenda Site - Bônus Parceiro,URL Contrato Ausente
+1006,100729,eGestor 4 - Plano Iniciante,Diferença Valor (64.3%)
+1014,100737,eGestor 4 - Plano Avançado,Diferença Valor (32.0%)
+1015,100737,Site Institucional,URL Contrato Ausente
+1020,100740,NFeMais - Plano Básico,URL Contrato Ausente
+1021,100567,NFeMais - Plano Ilimitado,URL Contrato Ausente
+1028,100744,eGestor 4 - Módulo NFCe,URL Contrato Ausente
+1031,100751,eGestor 4 - Plano Avançado,Diferença Valor (32.0%)
+1037,100754,eGestor 4 - Micro,URL Contrato Ausente | Diferença Valor (37.5%)
+1040,100757,NFeMais - Plano Básico,URL Contrato Ausente
+1041,100758,NFeMais - Plano Básico,URL Contrato Ausente
+1045,100761,eGestor 3 - Adicional Usuários,Diferença Valor (100.0%)
+1046,100762,eGestor 4 - Plano Ultra,URL Contrato Ausente
+1050,100764,Revenda NFeMais - Plano Básico,Diferença Valor (33.3%)
+1051,100764,Revenda NFeMais - Plano Básico,Diferença Valor (33.3%)
+1052,100764,Revenda NFeMais - Plano Básico,Diferença Valor (33.3%)
+1053,100764,Revenda NFeMais - Plano Básico,Diferença Valor (33.3%)
+1054,100764,Revenda NFeMais - Plano Básico,Diferença Valor (33.3%)
+1055,100765,eGestor 4 - Plano Bronze,URL Contrato Ausente
+1056,100765,Site Institucional,URL Contrato Ausente
+1061,100769,NFeMais - Plano Básico,URL Contrato Ausente
+1062,100770,NFeMais - Plano Básico,URL Contrato Ausente
+1064,100771,eGestor 4 - Adicional Usuários,Diferença Valor (100.0%)
+1065,100772,eGestor 4 - Plano Ouro,URL Contrato Ausente
+1066,100773,eGestor 4 - Plano Avançado,Diferença Valor (30.0%)
+1067,100774,eGestor 4 - Plano Avançado,Diferença Valor (30.0%)
+1068,100774,eGestor 4 - Módulo NFSe,URL Contrato Ausente | Diferença Valor (100.0%)
+1069,100773,eGestor 4 - Módulo NFSe,URL Contrato Ausente | Diferença Valor (100.0%)
+1070,100654,NFeMais - Plano Ilimitado,URL Contrato Ausente
+1075,100777,NFeMais - Plano Básico,URL Contrato Ausente
+1077,100779,NFeMais - Plano Ilimitado,URL Contrato Ausente
+1078,100686,eGestor 4 - Plano Ouro,Diferença Valor (33.4%)
+1080,100781,eGestor 4 - Plano Iniciante,URL Contrato Ausente
+1082,100782,GetCommerce,Diferença Valor (33.1%)
+1083,100783,eGestor 4 - Plano Iniciante,URL Contrato Ausente
+1087,100786,NFeMais - Plano Ilimitado,URL Contrato Ausente
+1089,100788,eGestor 4 - Plano Iniciante,Diferença Valor (30.0%)
+1091,100790,NFeMais - Plano Ilimitado,URL Contrato Ausente
+1102,100410,Revenda Site - Bônus Parceiro,URL Contrato Ausente
+1107,100801,eGestor 4 - Plano Bronze,URL Contrato Ausente
+1108,100801,eGestor 4 - Módulo NFe,URL Contrato Ausente | Diferença Valor (100.0%)
+1139,100200,eGestor 4 - Plano Avançado,URL Contrato Ausente
+1144,100818,eGestor 4 - Plano Ultra,Diferença Valor (30.0%)
+1145,100819,eGestor 4 - Plano Avançado,Diferença Valor (32.0%)
+1157,100513,eGestor 4 - Adicional Usuários,Diferença Valor (100.0%)
+1160,100827,NFeMais - Plano Básico,URL Contrato Ausente
+1164,100803,eGestor 4 - Plano Iniciante,Diferença Valor (30.0%)
+1168,100829,eGestor 4 - Plano Bronze,Diferença Valor (36.4%)
+1173,100836,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+1174,100836,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+1175,100836,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+1177,100838,eGestor 4 - Plano Bronze,URL Contrato Ausente | Diferença Valor (36.4%)
+1178,100840,NFeMais - Plano Básico,URL Contrato Ausente
+1182,100288,eGestor 4 - Plano Ultra,URL Contrato Ausente
+1185,100845,NFeMais - Plano Ilimitado,URL Contrato Ausente
+1188,100847,NFeMais - Plano Básico,URL Contrato Ausente
+1192,100851,NFeMais - Plano Básico,URL Contrato Ausente
+1194,100853,NFeMais - Plano Ilimitado,Diferença Valor (44.5%)
+1196,100637,eGestor 4 - Plano Ouro,URL Contrato Ausente
+1197,100856,NFeMais - Plano Básico,URL Contrato Ausente
+1203,100855,eGestor 4 - Módulo Produção,Diferença Valor (40.1%)
+1205,100858,Revenda eGestor 4 - Plano Ultra,Diferença Valor (30.7%)
+1206,100858,Revenda eGestor 4 - Plano Ultra,Diferença Valor (30.7%)
+1211,100862,eGestor 4 - Plano Prata,URL Contrato Ausente
+1214,100865,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+1215,100865,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+1219,100550,Site Institucional,URL Contrato Ausente
+1220,100868,NFeMais - Plano Básico,URL Contrato Ausente
+1222,100872,Revenda eGestor 4 - Plano Avançado,Diferença Valor (100.0%)
+1223,100872,Revenda eGestor 4 - Plano Avançado,Diferença Valor (100.0%)
+1225,100884,NFeMais - Plano Ilimitado,URL Contrato Ausente
+1226,100885,NFeMais - Plano Básico,URL Contrato Ausente
+1227,100886,NFeMais - Plano Básico,URL Contrato Ausente
+1238,100893,eGestor 4 - Plano Avançado,URL Contrato Ausente
+1239,100894,eGestor 4 - Plano Ultra,URL Contrato Ausente
+1241,100857,Site Institucional,URL Contrato Ausente
+1243,100895,eGestor 4 - Plano Avançado,Gap Cobrança (62 dias)
+1251,100902,NFeMais - Plano Básico,URL Contrato Ausente
+1255,100906,NFeMais - Plano Básico,URL Contrato Ausente
+1258,100908,eGestor 4 - Módulo NFSe,URL Contrato Ausente | Diferença Valor (100.0%)
+1262,100911,eGestor 4 - Plano Avançado,URL Contrato Ausente
+1263,100910,eGestor 4 - Plano Prata,URL Contrato Ausente
+1270,100915,GetCommerce,Diferença Valor (55.5%)
+1278,100920,eGestor 4 - Plano Avançado,Diferença Valor (30.0%)
+1280,100922,eGestor 4 - Plano Iniciante,Diferença Valor (47.6%)
+1282,100924,NFeMais - Plano Básico,URL Contrato Ausente
+1287,100926,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+1288,100926,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+1289,100926,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+1290,100926,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+1291,100926,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+1292,100926,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+1293,100926,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+1294,100926,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+1295,100926,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+1299,100927,eGestor 4 - Módulo NFSe,URL Contrato Ausente | Diferença Valor (100.0%)
+1305,100932,eGestor 4 - Plano Avançado,URL Contrato Ausente
+1306,100933,NFeMais - Plano Básico,URL Contrato Ausente
+1307,100934,Revenda eGestor 4 - Plano Avançado,Diferença Valor (51.8%)
+1308,100934,Revenda eGestor 4 - Plano Avançado,Diferença Valor (51.8%)
+1309,100935,eGestor 4 - Plano Ultra,Diferença Valor (30.0%)
+1312,100938,NFeMais - Plano Básico,URL Contrato Ausente
+1313,100939,Revenda eGestor 4 - Plano Avançado,Diferença Valor (99.8%)
+1314,100939,Revenda eGestor 4 - Plano Avançado,Diferença Valor (99.8%)
+1315,100940,eGestor 4 - Plano Avançado,Diferença Valor (56.0%)
+1318,100944,eGestor 4 - Plano Bronze,Diferença Valor (42.7%)
+1321,100946,eGestor 4 - Plano Padrão,Diferença Valor (38.7%)
+1322,100931,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (30.7%)
+1323,100931,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (30.7%)
+1324,100931,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (30.7%)
+1325,100931,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (30.7%)
+1326,100948,eGestor 4 - Plano Avançado,Diferença Valor (30.0%)
+1329,100948,Site Institucional,Diferença Valor (87.5%)
+1333,100951,NFeMais - Plano Básico,URL Contrato Ausente
+1355,100963,NFeMais - Plano Básico,URL Contrato Ausente
+1359,100965,eGestor 4 - Plano Avançado,Diferença Valor (40.0%)
+1365,100969,NFeMais - Plano Básico,URL Contrato Ausente
+1369,100971,eGestor 4 - Plano Avançado,Diferença Valor (30.0%)
+1370,100972,NFeMais - Plano Básico,URL Contrato Ausente
+1372,100974,eGestor 4 - Plano Bronze,URL Contrato Ausente
+1373,100974,Site Institucional,URL Contrato Ausente
+1375,100976,NFeMais - Plano Básico,URL Contrato Ausente
+1379,100950,Revenda Site - Parceiro,Diferença Valor (53.3%)
+1381,100979,eGestor 4 - Plano Avançado,URL Contrato Ausente
+1382,100980,NFeMais - Plano Ilimitado,URL Contrato Ausente
+1383,100981,NFeMais - Plano Básico,URL Contrato Ausente
+1384,100982,eGestor 4 - Plano Avançado,URL Contrato Ausente
+1387,100985,Revenda eGestor 4 - Plano Avançado,Diferença Valor (80.0%)
+1388,100985,Revenda eGestor 4 - Plano Avançado,Diferença Valor (80.0%)
+1389,100985,Revenda eGestor 4 - Plano Avançado,Diferença Valor (80.0%)
+1393,100987,Revenda NFeMais - Plano Básico,Diferença Valor (66.3%)
+1394,100989,NFeMais - Plano Básico,Diferença Valor (45.8%)
+1395,100987,Revenda NFeMais - Plano Ilimitado,Diferença Valor (51.8%)
+1411,100803,eGestor 4 - Módulo NFe,URL Contrato Ausente | Diferença Valor (44.9%)
+1415,100998,eGestor 4 - Plano Padrão,Diferença Valor (35.5%)
+1420,100999,eGestor 4 - Módulo MDFe,Diferença Valor (50.1%)
+1422,101001,NFeMais - Plano Básico,URL Contrato Ausente
+1423,101002,eGestor 4 - Micro,URL Contrato Ausente | Diferença Valor (37.5%)
+1434,101011,NFeMais - Plano Ilimitado,URL Contrato Ausente
+1444,101018,NFeMais - Plano Básico,URL Contrato Ausente
+1446,101020,NFeMais - Plano Básico,URL Contrato Ausente
+1448,101021,NFeMais - Plano Básico,URL Contrato Ausente
+1453,101022,Revenda NFeMais - Plano Ilimitado,URL Contrato Ausente
+1454,101022,Revenda NFeMais - Plano Ilimitado,URL Contrato Ausente
+1455,101022,Revenda NFeMais - Plano Ilimitado,URL Contrato Ausente
+1469,101023,Revenda Site - Bônus Parceiro,URL Contrato Ausente
+1475,101028,eGestor 4 - Plano Ultra,URL Contrato Ausente
+1476,101029,Revenda NFeMais - Plano Básico,Diferença Valor (66.7%)
+1477,101029,Revenda NFeMais - Plano Básico,Diferença Valor (66.7%)
+1478,101029,Revenda NFeMais - Plano Básico,Diferença Valor (66.7%)
+1483,100956,NFeMais - Plano Básico,URL Contrato Ausente
+1489,101039,eGestor 4 - Micro,URL Contrato Ausente | Diferença Valor (37.5%)
+1492,101042,eGestor 4 - Plano Avançado,Gap Cobrança (90 dias)
+1493,101043,eGestor 4 - Plano Bronze,URL Contrato Ausente
+1495,101044,NFeMais - Plano Básico,URL Contrato Ausente
+1496,101045,NFeMais - Plano Básico,URL Contrato Ausente
+1499,101046,eGestor 4 - Micro,URL Contrato Ausente | Diferença Valor (37.5%)
+1502,101049,NFeMais - Plano Básico,URL Contrato Ausente
+1503,101048,NFeMais - Plano Básico,URL Contrato Ausente
+1514,101056,eGestor 4 - Plano Padrão,Diferença Valor (53.5%)
+1516,100854,eGestor 4 - Módulo Produção,URL Contrato Ausente
+1517,101057,NFeMais - Plano Básico,URL Contrato Ausente
+1518,101058,NFeMais - Plano Básico,URL Contrato Ausente
+1519,101059,NFeMais - Plano Básico,URL Contrato Ausente
+1520,101060,NFeMais - Plano Básico,URL Contrato Ausente
+1522,101061,NFeMais - Plano Ilimitado,URL Contrato Ausente
+1523,101062,NFeMais - Plano Básico,URL Contrato Ausente
+1524,101064,NFeMais - Plano Básico,URL Contrato Ausente
+1528,100424,Revenda eGestor 4 - Plano Avançado,URL Contrato Ausente | Diferença Valor (59.8%)
+1530,100403,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+1532,101069,eGestor 4 - Plano Bronze,Diferença Valor (31.8%)
+1539,101074,Site Institucional,Diferença Valor (129.9%)
+1544,101077,NFeMais - Plano Básico,URL Contrato Ausente
+1547,100763,eGestor 4 - Plano Ultra,URL Contrato Ausente
+1548,101078,NFeMais - Plano Básico,URL Contrato Ausente
+1550,101080,NFeMais - Plano Básico,URL Contrato Ausente
+1552,100761,eGestor 4 - Plano Ouro,URL Contrato Ausente
+1553,101081,eGestor 4 - Plano Iniciante,Diferença Valor (30.0%)
+1554,101082,NFeMais - Plano Básico,URL Contrato Ausente
+1555,100860,Revenda eGestor 4 - Plano Avançado,Diferença Valor (60.0%)
+1556,100860,Revenda eGestor 4 - Plano Avançado,Diferença Valor (60.0%)
+1565,101023,Revenda eGestor 4 - Bônus Parceiro,URL Contrato Ausente
+1566,101086,eGestor 4 - Plano Padrão,URL Contrato Ausente
+1569,100975,eGestor 4 - Plano Ouro,URL Contrato Ausente
+1570,101089,Revenda NFeMais - Plano Básico,Diferença Valor (66.3%)
+1571,101089,Revenda NFeMais - Plano Básico,Diferença Valor (66.3%)
+1572,101089,Revenda NFeMais - Plano Básico,Diferença Valor (66.3%)
+1573,101089,Revenda NFeMais - Plano Básico,Diferença Valor (66.3%)
+1574,101089,Revenda NFeMais - Plano Básico,Diferença Valor (66.3%)
+1575,101089,Revenda NFeMais - Plano Básico,Diferença Valor (66.3%)
+1576,101089,Revenda NFeMais - Plano Básico,Diferença Valor (66.3%)
+1577,101089,Revenda NFeMais - Plano Básico,Diferença Valor (66.3%)
+1578,101089,Revenda NFeMais - Plano Básico,Diferença Valor (66.3%)
+1579,101089,Revenda NFeMais - Plano Básico,Diferença Valor (66.3%)
+1580,101089,Revenda NFeMais - Plano Básico,Diferença Valor (66.3%)
+1589,101095,eGestor 4 - Plano Bronze,URL Contrato Ausente
+1593,101097,Revenda eGestor 4 - Plano Avançado,Diferença Valor (100.0%)
+1594,101097,Revenda eGestor 4 - Plano Avançado,Diferença Valor (100.0%)
+1599,101102,NFeMais - Plano Ilimitado,URL Contrato Ausente
+1600,101103,NFeMais - Plano Básico,URL Contrato Ausente
+1601,101104,eGestor 4 - Micro,URL Contrato Ausente | Diferença Valor (37.5%)
+1602,101105,NFeMais - Plano Básico,URL Contrato Ausente
+1604,101107,NFeMais - Plano Básico,URL Contrato Ausente
+1605,101109,NFeMais - Plano Básico,URL Contrato Ausente
+1607,101110,eGestor 3 - Plano Avançado,Diferença Valor (66.7%)
+1610,101111,NFeMais - Plano Iniciante,Diferença Valor (30.1%)
+1614,100423,eGestor 4 - Plano Ultra,URL Contrato Ausente
+1618,101118,NFeMais - Plano Básico,URL Contrato Ausente
+1620,101120,NFeMais - Plano Básico,URL Contrato Ausente
+1622,101123,NFeMais - Plano Básico,URL Contrato Ausente
+1631,101050,Revenda NFeMais - Plano Básico,URL Contrato Ausente | Diferença Valor (66.3%)
+1634,101129,Revenda eGestor 4 - Plano Avançado,Diferença Valor (60.0%)
+1635,101129,Revenda eGestor 4 - Plano Avançado,Diferença Valor (60.0%)
+1641,101133,NFeMais - Plano Básico,URL Contrato Ausente
+1649,101141,Site Institucional,URL Contrato Ausente
+1651,101142,eGestor 4 - Plano Avançado,Diferença Valor (36.6%)
+1652,101143,NFeMais - Plano Iniciante,Diferença Valor (30.1%)
+1656,101145,Revenda NFeMais - Plano Básico,Diferença Valor (66.3%)
+1657,100630,NFeMais - Plano Ilimitado,URL Contrato Ausente
+1664,101148,NFeMais - Plano Básico,URL Contrato Ausente
+1665,101149,NFeMais - Plano Básico,URL Contrato Ausente
+1667,101130,Revenda eGestor 4 - Bônus Parceiro,URL Contrato Ausente
+1668,101151,NFeMais - Plano Básico,URL Contrato Ausente
+1669,101153,NFeMais - Plano Básico,URL Contrato Ausente
+1681,101161,NFeMais - Plano Básico,URL Contrato Ausente
+1683,101163,NFeMais - Plano Básico,URL Contrato Ausente
+1685,101165,Revenda NFeMais - Plano Ilimitado,Diferença Valor (51.8%)
+1686,101165,Revenda NFeMais - Plano Ilimitado,Diferença Valor (51.8%)
+1688,101168,eGestor 4 - Plano Bronze,Gap Cobrança (62 dias)
+1691,101170,NFeMais - Plano Básico,Diferença Valor (39.9%)
+1695,100562,Revenda NFeMais - Plano Ilimitado,URL Contrato Ausente
+1696,101172,Revenda eGestor 4 - Plano Avançado,Diferença Valor (100.0%)
+1700,101174,eGestor 4 - Plano Bronze,URL Contrato Ausente
+1703,101177,NFeMais - Plano Básico,URL Contrato Ausente
+1707,101129,Revenda eGestor 4 - Bônus Parceiro,URL Contrato Ausente
+1710,100950,Revenda eGestor 4 - Bônus Parceiro,URL Contrato Ausente
+1712,101182,NFeMais - Plano Básico,URL Contrato Ausente
+1719,101185,eGestor 4 - Plano Prata,Diferença Valor (36.1%)
+1720,101185,eGestor 4 - Módulo NFSe,Diferença Valor (100.0%)
+1721,101186,eGestor 4 - Plano Prata,URL Contrato Ausente | Diferença Valor (36.1%)
+1723,101186,eGestor 4 - Módulo NFSe,URL Contrato Ausente | Diferença Valor (100.0%)
+1725,101189,NFeMais - Plano Básico,URL Contrato Ausente
+1726,101190,eGestor 4 - Plano Avançado,Diferença Valor (30.0%)
+1727,101191,eGestor 4 - Plano Ouro,Diferença Valor (30.0%)
+1730,101194,NFeMais - Plano Básico,URL Contrato Ausente
+1731,101195,NFeMais - Plano Básico,URL Contrato Ausente
+1737,101198,eGestor 4 - Plano Ultra,URL Contrato Ausente
+1738,101198,Site Institucional,URL Contrato Ausente
+1746,101203,NFeMais - Plano Básico,URL Contrato Ausente
+1752,101205,Revenda NFeMais - Plano Básico,Diferença Valor (66.7%)
+1753,101205,Revenda NFeMais - Plano Básico,Diferença Valor (66.7%)
+1754,101205,Revenda NFeMais - Plano Básico,Diferença Valor (66.7%)
+1756,101207,eGestor 4 - Módulo NFCe,Diferença Valor (39.7%)
+1757,101206,eGestor 4 - Plano Iniciante,Diferença Valor (30.0%)
+1763,100466,Vitrine Online,URL Contrato Ausente | Diferença Valor (40.0%)
+1771,101217,Revenda NFeMais - Plano Básico,Diferença Valor (66.7%)
+1772,101217,Revenda NFeMais - Plano Básico,Diferença Valor (66.7%)
+1773,101217,Revenda NFeMais - Plano Básico,Diferença Valor (66.7%)
+1774,101217,Revenda NFeMais - Plano Básico,Diferença Valor (66.7%)
+1777,101219,NFeMais - Plano Básico,URL Contrato Ausente
+1783,101106,eGestor 4 - Plano Avançado,URL Contrato Ausente
+1784,101225,eGestor 4 - Plano Ouro,URL Contrato Ausente
+1785,101226,NFeMais - Plano Ilimitado,URL Contrato Ausente
+1786,101227,NFeMais - Plano Básico,URL Contrato Ausente
+1790,101231,NFeMais - Plano Básico,URL Contrato Ausente
+1791,100723,NFeMais - Plano Ilimitado,URL Contrato Ausente
+1794,101233,Revenda eGestor 4 - Plano Avançado,Diferença Valor (50.0%)
+1800,101236,NFeMais - Plano Básico,URL Contrato Ausente
+1802,101239,NFeMais - Plano Básico,URL Contrato Ausente
+1806,100316,NFeMais - Plano Ilimitado,URL Contrato Ausente
+1811,101202,Revenda eGestor 4 - Bônus Parceiro,URL Contrato Ausente
+1813,101238,eGestor 4 - Plano Padrão,Diferença Valor (31.6%)
+1818,101249,NFeMais - Plano Básico,URL Contrato Ausente
+1819,101251,NFeMais - Plano Ilimitado,URL Contrato Ausente
+1826,101256,eGestor 4 - Plano Bronze,URL Contrato Ausente | Diferença Valor (34.0%)
+1828,101258,NFeMais - Plano Básico,Diferença Valor (34.9%)
+1842,101050,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+1843,101244,Revenda eGestor 4 - Bônus Parceiro,URL Contrato Ausente
+1844,101266,eGestor 4 - Plano Ultra,Diferença Valor (30.0%)
+1845,101267,eGestor 4 - Plano Iniciante,URL Contrato Ausente
+1848,100984,NFeMais - Plano Básico,URL Contrato Ausente
+1852,101271,eGestor 4 - Plano Bronze,Diferença Valor (34.6%)
+1853,101271,eGestor 4 - Módulo Produção,Diferença Valor (68.1%)
+1862,101277,Revenda Site - Parceiro,Diferença Valor (33.3%)
+1866,101280,NFeMais - Plano Ilimitado,URL Contrato Ausente
+1868,101263,Revenda eGestor 4 - Bônus Parceiro,URL Contrato Ausente
+1883,101288,eGestor 4 - Plano Avançado,Diferença Valor (32.0%)
+1889,101293,Revenda NFeMais - Plano Básico,Diferença Valor (66.7%)
+1890,101293,Revenda NFeMais - Plano Básico,Diferença Valor (66.7%)
+1891,101293,Revenda NFeMais - Plano Básico,Diferença Valor (66.7%)
+1892,101294,eGestor 4 - Plano Iniciante,Diferença Valor (52.4%)
+1893,101295,NFeMais - Plano Básico,URL Contrato Ausente
+1899,101299,Revenda NFeMais - Plano Básico,Diferença Valor (53.0%)
+1900,101299,Revenda NFeMais - Plano Básico,Diferença Valor (53.0%)
+1901,101299,Revenda NFeMais - Plano Básico,Diferença Valor (53.0%)
+1902,101299,Revenda NFeMais - Plano Básico,Diferença Valor (53.0%)
+1903,101299,Revenda NFeMais - Plano Básico,Diferença Valor (53.0%)
+1906,100349,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+1914,101306,NFeMais - Plano Iniciante,Diferença Valor (30.4%)
+1916,101308,NFeMais - Plano Iniciante,Diferença Valor (30.4%)
+1917,101309,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+1918,101309,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+1920,101298,Revenda eGestor 4 - Plano Ultra,Diferença Valor (30.7%)
+1921,101298,Revenda eGestor 4 - Plano Ultra,Diferença Valor (30.7%)
+1922,101298,Revenda eGestor 4 - Plano Ultra,Diferença Valor (30.7%)
+1926,101313,Revenda NFeMais - Plano Ilimitado,URL Contrato Ausente
+1927,101313,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+1929,101315,Revenda NFeMais - Plano Básico,Diferença Valor (66.3%)
+1930,101315,Revenda NFeMais - Plano Básico,Diferença Valor (66.3%)
+1931,101315,Revenda NFeMais - Plano Ilimitado,Diferença Valor (51.8%)
+1939,100349,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+1940,100349,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+1943,101286,Revenda eGestor 4 - Plano Avançado,URL Contrato Ausente | Diferença Valor (99.8%)
+1944,101286,Revenda eGestor 4 - Plano Avançado,URL Contrato Ausente | Diferença Valor (99.8%)
+1948,101320,Vitrine Online,URL Contrato Ausente
+1950,101323,Revenda NFeMais - Plano Básico,Diferença Valor (76.7%)
+1951,101323,Revenda NFeMais - Plano Básico,Diferença Valor (76.7%)
+1952,101323,Revenda NFeMais - Plano Básico,Diferença Valor (76.7%)
+1956,101326,eGestor 4 - Plano Ultra,Diferença Valor (40.0%)
+1957,101327,NFeMais - Plano Básico,URL Contrato Ausente
+1961,101330,eGestor 4 - Plano Ultra,URL Contrato Ausente
+1976,101344,NFeMais - Plano Básico,URL Contrato Ausente
+1978,101345,NFeMais - Plano Básico,URL Contrato Ausente
+1981,101347,Revenda eGestor 4 - Plano Avançado,Diferença Valor (60.0%)
+1982,101347,Revenda eGestor 4 - Plano Avançado,Diferença Valor (60.0%)
+1986,100405,Revenda NFeMais - Plano Básico,Diferença Valor (66.7%)
+1987,100405,Revenda NFeMais - Plano Básico,Diferença Valor (66.7%)
+1988,100405,Revenda NFeMais - Plano Básico,Diferença Valor (66.7%)
+1989,100405,Revenda NFeMais - Plano Básico,Diferença Valor (66.7%)
+1991,101360,eGestor 4 - Plano Avançado,URL Contrato Ausente
+1999,101368,eGestor 4 - Módulo NFe,Diferença Valor (40.1%)
+2002,101369,Vitrine Online,Gap Cobrança (90 dias)
+2018,101378,eGestor 4 - Plano Ultra,URL Contrato Ausente
+2020,100855,eGestor 4 - Módulo PDV,URL Contrato Ausente
+2030,101208,eGestor 4 - Módulo PDV,URL Contrato Ausente
+2032,101389,NFeMais - Plano Básico,URL Contrato Ausente
+2036,101392,Revenda NFeMais - Plano Básico,Diferença Valor (66.7%)
+2037,101392,Revenda NFeMais - Plano Básico,Diferença Valor (66.7%)
+2038,101392,Revenda NFeMais - Plano Básico,Diferença Valor (66.7%)
+2043,101395,eGestor 4 - Plano Bronze,Diferença Valor (45.4%)
+2052,101401,Revenda eGestor 4 - Plano Avançado,Diferença Valor (100.0%)
+2053,101401,Revenda eGestor 4 - Plano Avançado,Diferença Valor (100.0%)
+2054,101402,NFeMais - Plano Básico,URL Contrato Ausente
+2055,101403,NFeMais - Plano Básico,URL Contrato Ausente
+2058,101404,Revenda eGestor 4 - Dash conta avulsa ,URL Contrato Ausente
+2059,101404,Revenda eGestor 4 - Dash conta avulsa ,URL Contrato Ausente
+2060,101405,NFeMais - Plano Básico,URL Contrato Ausente
+2069,101413,NFeMais - Plano Básico,URL Contrato Ausente
+2077,101392,Revenda eGestor 4 - Bônus Parceiro,URL Contrato Ausente
+2078,101419,Revenda NFeMais - Plano Básico,Diferença Valor (66.7%)
+2079,101419,Revenda NFeMais - Plano Básico,Diferença Valor (66.7%)
+2080,101419,Revenda NFeMais - Plano Básico,Diferença Valor (66.7%)
+2086,101422,eGestor 4 - Plano Avançado,Diferença Valor (30.0%)
+2087,100872,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (38.5%)
+2088,100872,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (38.5%)
+2089,100872,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (38.5%)
+2090,100872,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (38.5%)
+2091,100872,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (38.5%)
+2093,101425,eGestor 4 - Plano Avançado,Diferença Valor (30.0%)
+2094,101426,Revenda NFeMais - Plano Básico,Diferença Valor (66.7%)
+2095,101426,Revenda NFeMais - Plano Básico,Diferença Valor (66.7%)
+2096,101426,Revenda NFeMais - Plano Básico,Diferença Valor (66.7%)
+2097,100764,Revenda eGestor 4 - Bônus Parceiro,URL Contrato Ausente | Data Futura (2028-12-01)
+2100,101427,NFeMais - Plano Iniciante,URL Contrato Ausente
+2106,101434,eGestor 4 - Plano Bronze,Diferença Valor (38.2%)
+2108,100349,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+2118,101420,Revenda eGestor 4 - Bônus Parceiro,URL Contrato Ausente | Data Futura (2028-12-01)
+2124,100978,Site Institucional,URL Contrato Ausente
+2131,101445,NFeMais - Plano Iniciante,URL Contrato Ausente
+2132,101446,NFeMais - Plano Básico,URL Contrato Ausente
+2133,101448,NFeMais - Plano Básico,URL Contrato Ausente
+2134,101449,NFeMais - Plano Básico,URL Contrato Ausente
+2140,101452,eGestor 4 - Plano Ultra,URL Contrato Ausente
+2142,101453,eGestor 4 - Módulo NFSe,URL Contrato Ausente | Diferença Valor (100.0%)
+2144,101455,Revenda eGestor 4 - Plano Avançado,Diferença Valor (35.8%)
+2145,101455,Revenda eGestor 4 - Plano Avançado,Diferença Valor (35.8%)
+2146,101455,Revenda eGestor 4 - Plano Avançado,Diferença Valor (35.8%)
+2147,101432,Revenda eGestor 4 - Bônus Parceiro,URL Contrato Ausente
+2165,101467,eGestor 4 - Plano Bronze,URL Contrato Ausente
+2166,100747,eGestor 4 - Personalização de Impressão ,URL Contrato Ausente | Diferença Valor (44.0%)
+2168,101469,NFeMais - Plano Básico,URL Contrato Ausente
+2172,101473,NFeMais - Plano Básico,URL Contrato Ausente
+2173,101474,NFeMais - Plano Básico,URL Contrato Ausente
+2175,101476,eGestor 4 - Plano Iniciante,URL Contrato Ausente
+2177,101477,eGestor 4 - Módulo NFCe,Diferença Valor (40.1%)
+2182,101480,Revenda eGestor 4 - Plano Avançado,Diferença Valor (50.0%)
+2183,101480,Revenda eGestor 4 - Plano Avançado,Diferença Valor (50.0%)
+2184,101481,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2185,101481,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2186,101481,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2187,101481,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2188,101481,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2189,101483,Revenda eGestor 4 - Plano Avançado,Diferença Valor (100.0%)
+2190,101483,Revenda eGestor 4 - Plano Avançado,Diferença Valor (100.0%)
+2191,101482,eGestor 4 - Plano Ultra,Diferença Valor (31.5%)
+2196,101115,Vitrine Online,Diferença Valor (55.0%)
+2200,101487,NFeMais - Plano Básico,URL Contrato Ausente
+2202,101489,NFeMais - Plano Ilimitado,URL Contrato Ausente
+2204,101488,Revenda eGestor 4 - Plano Avançado,Diferença Valor (100.0%)
+2205,101488,Revenda eGestor 4 - Plano Avançado,Diferença Valor (100.0%)
+2211,101495,NFeMais - Plano Básico,URL Contrato Ausente
+2215,101411,NFeMais - Plano Ilimitado,URL Contrato Ausente
+2216,101328,eGestor 4 - Módulo NFCe,URL Contrato Ausente | Diferença Valor (74.9%)
+2218,101501,NFeMais - Plano Iniciante,URL Contrato Ausente
+2220,101502,NFeMais - Plano Iniciante,URL Contrato Ausente
+2221,101503,NFeMais - Plano Iniciante,Diferença Valor (30.1%)
+2233,101506,NFeMais - Plano Básico,URL Contrato Ausente
+2235,101508,NFeMais - Plano Básico,URL Contrato Ausente
+2236,101509,Revenda eGestor 4 - Plano Ultra,Diferença Valor (30.7%)
+2237,101509,Revenda eGestor 4 - Plano Ultra,Diferença Valor (30.7%)
+2238,101510,eGestor 4 - Plano Padrão,Diferença Valor (31.6%)
+2242,100322,eGestor 4 - Plano Ouro,URL Contrato Ausente
+2245,101225,Vitrine Online,Diferença Valor (42.5%)
+2246,100922,eGestor 4 - Adicional Usuários,URL Contrato Ausente | Diferença Valor (70.2%)
+2248,101050,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+2254,101513,eGestor 4 - Plano Avançado,URL Contrato Ausente | Diferença Valor (70.0%)
+2255,101513,eGestor 4 - Plano Avançado,URL Contrato Ausente | Diferença Valor (70.0%)
+2257,101518,NFeMais - Plano Básico,URL Contrato Ausente
+2258,101519,eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (47.5%)
+2264,101526,NFeMais - Plano Ilimitado,URL Contrato Ausente
+2266,101527,eGestor 4 - Plano Ultra,URL Contrato Ausente
+2277,101535,Revenda eGestor 4 - Plano Avançado,Diferença Valor (100.0%)
+2278,101535,Revenda eGestor 4 - Plano Avançado,Diferença Valor (100.0%)
+2279,101535,Revenda eGestor 4 - Plano Avançado,Diferença Valor (100.0%)
+2280,101535,Revenda eGestor 4 - Plano Avançado,Diferença Valor (100.0%)
+2284,101536,eGestor 4 - Plano Ultra,URL Contrato Ausente
+2285,101538,eGestor 4 - Plano Prata,Diferença Valor (44.4%)
+2286,101539,Revenda eGestor 4 - Plano Avançado,Diferença Valor (100.0%)
+2287,101539,Revenda eGestor 4 - Plano Avançado,Diferença Valor (100.0%)
+2288,100467,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+2294,101544,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2295,101544,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2296,101544,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2297,101544,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2298,101544,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2305,101250,eGestor 4 - Plano Bronze,URL Contrato Ausente
+2312,101507,eGestor 4 - Plano Padrão,URL Contrato Ausente
+2314,101552,Revenda eGestor 4 - Plano Avançado,Diferença Valor (100.0%)
+2315,101552,Revenda eGestor 4 - Plano Avançado,Diferença Valor (100.0%)
+2316,101553,NFeMais - Plano Ilimitado,URL Contrato Ausente
+2319,101556,Old eGestor 4 - Plus,URL Contrato Ausente | Diferença Valor (100.1%)
+2320,101557,NFeMais - Plano Básico,URL Contrato Ausente
+2322,101542,NFeMais - Plano Ilimitado,URL Contrato Ausente
+2326,101561,eGestor 4 - Plano Prata,Diferença Valor (45.3%)
+2327,101561,eGestor 4 - Módulo Produção,Diferença Valor (40.1%)
+2332,101184,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+2342,101572,NFeMais - Plano Ilimitado,Diferença Valor (33.4%)
+2345,101124,eGestor 4 - Plano Básico,URL Contrato Ausente
+2349,101576,eGestor 4 - Plano Bronze,Diferença Valor (38.2%)
+2350,101576,eGestor 4 - Módulo NFe,Diferença Valor (100.0%)
+2351,101577,eGestor 4 - Plano Prata,URL Contrato Ausente
+2354,101580,eGestor 4 - Plano Padrão,Diferença Valor (38.3%)
+2355,101581,eGestor 4 - Plano Avançado,URL Contrato Ausente
+2364,100896,eGestor 4 - Plano Ouro,URL Contrato Ausente
+2368,101590,NFeMais - Plano Básico,URL Contrato Ausente
+2369,100665,Revenda NFeMais - Plano Ilimitado,URL Contrato Ausente
+2376,101597,NFeMais - Plano Básico,URL Contrato Ausente
+2379,101478,eGestor 4 - Módulo PDV,URL Contrato Ausente | Diferença Valor (50.2%)
+2388,101607,NFeMais - Plano Básico,URL Contrato Ausente
+2395,101613,NFeMais - Plano Básico,URL Contrato Ausente
+2415,101022,Revenda eGestor 4 - Plano Iniciante + 40 NFSe,URL Contrato Ausente
+2416,101022,Revenda eGestor 4 - Plano Iniciante + 40 NFSe,URL Contrato Ausente
+2420,101623,Site Institucional,URL Contrato Ausente
+2421,101624,Revenda NFeMais - Plano Básico,Diferença Valor (53.0%)
+2422,101624,Revenda NFeMais - Plano Básico,Diferença Valor (53.0%)
+2423,101624,Revenda NFeMais - Plano Básico,Diferença Valor (53.0%)
+2424,101624,Revenda NFeMais - Plano Básico,Diferença Valor (53.0%)
+2425,101624,Revenda NFeMais - Plano Básico,Diferença Valor (53.0%)
+2426,101625,NFeMais - Plano Básico,URL Contrato Ausente
+2428,101628,NFeMais - Plano Básico,URL Contrato Ausente
+2437,101634,Revenda eGestor 4 - Plano Ultra,Diferença Valor (30.8%)
+2438,101634,Revenda eGestor 4 - Plano Ultra,Diferença Valor (30.8%)
+2441,101618,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2442,101618,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2443,101618,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2444,101618,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2445,101618,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2448,101636,Site Institucional,URL Contrato Ausente
+2451,101638,eGestor 4 - Plano Bronze,URL Contrato Ausente
+2455,101641,NFeMais - Plano Básico,URL Contrato Ausente
+2463,101646,eGestor 4 - Módulo Produção,Diferença Valor (40.1%)
+2465,101622,eGestor 4 - Plano Prata,URL Contrato Ausente
+2466,101647,eGestor 4 - Plano Padrão,URL Contrato Ausente | Diferença Valor (36.2%)
+2468,101649,NFeMais - Plano Básico,URL Contrato Ausente
+2471,100841,eGestor 4 - Plano Avançado,URL Contrato Ausente
+2474,101653,eGestor 4 - Módulo NFSe,URL Contrato Ausente
+2475,101653,eGestor 4 - Módulo NFe,URL Contrato Ausente
+2476,101050,Revenda eGestor 4 - Plano Avançado,URL Contrato Ausente | Diferença Valor (100.0%)
+2477,101655,NFeMais - Plano Básico,URL Contrato Ausente
+2478,101656,NFeMais - Plano Básico,URL Contrato Ausente
+2479,101657,eGestor 4 - Micro,URL Contrato Ausente
+2480,101658,NFeMais - Plano Básico,URL Contrato Ausente
+2481,101659,eGestor 4 - Plano Avançado,Diferença Valor (30.0%)
+2485,101662,Revenda eGestor 4 - Plano Avançado,Diferença Valor (100.0%)
+2486,101662,Revenda eGestor 4 - Plano Avançado,Diferença Valor (100.0%)
+2487,100167,Revenda eGestor 4 - Bônus Parceiro,URL Contrato Ausente
+2488,101663,NFeMais - Plano Básico,URL Contrato Ausente
+2493,101537,Revenda eGestor 4 - Plano Avançado,Diferença Valor (100.0%)
+2494,101537,Revenda eGestor 4 - Plano Avançado,Diferença Valor (100.0%)
+2496,101668,NFeMais - Plano Básico,Diferença Valor (34.9%)
+2501,101673,eGestor 4 - Plano Prata,Diferença Valor (41.3%)
+2508,101677,eGestor 4 - Plano Ouro,Diferença Valor (44.5%)
+2509,101678,NFeMais - Plano Básico,URL Contrato Ausente
+2510,101679,eGestor 4 - Plano Ultra,Diferença Valor (30.0%)
+2512,101629,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (30.8%)
+2513,101629,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (30.8%)
+2518,101683,NFeMais - Plano Básico,URL Contrato Ausente
+2519,100030,eGestor 4 - Plano Ultra,URL Contrato Ausente
+2525,101688,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2526,101688,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2527,101688,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2528,101688,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2529,101688,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2530,101689,NFeMais - Plano Básico,URL Contrato Ausente
+2531,101691,eGestor 4 - Plano Ultra,URL Contrato Ausente
+2533,101692,eGestor 4 - Plano Ultra,Diferença Valor (30.0%)
+2534,101693,NFeMais - Plano Ilimitado,URL Contrato Ausente
+2535,101694,NFeMais - Plano Básico,URL Contrato Ausente
+2536,101695,NFeMais - Plano Básico,URL Contrato Ausente
+2538,101696,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2539,101696,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2540,101696,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2541,101696,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2542,101696,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2544,101698,eGestor 4 - Plano Avançado,Diferença Valor (30.0%)
+2545,101522,eGestor 4 - Plano Ultra,URL Contrato Ausente
+2547,101520,NFeMais - Plano Ilimitado,URL Contrato Ausente
+2549,101702,Revenda NFeMais - Plano Básico,Diferença Valor (66.7%)
+2550,101702,Revenda NFeMais - Plano Básico,Diferença Valor (66.7%)
+2551,101702,Revenda NFeMais - Plano Básico,Diferença Valor (66.7%)
+2553,101704,NFeMais - Plano Básico,URL Contrato Ausente
+2559,101709,eGestor 4 - Plano Prata,URL Contrato Ausente
+2560,101709,eGestor 4 - Módulo NFe,URL Contrato Ausente
+2563,101712,NFeMais - Plano Básico,URL Contrato Ausente
+2564,101713,eGestor 4 - Plano Prata,URL Contrato Ausente
+2565,100291,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (38.5%)
+2566,100291,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (38.5%)
+2567,100291,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (38.5%)
+2568,100291,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (38.5%)
+2569,100291,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (38.5%)
+2570,100291,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (38.5%)
+2587,101298,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (38.5%)
+2588,101298,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (38.5%)
+2589,101298,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (38.5%)
+2591,101717,Revenda NFeMais - Plano Básico,Diferença Valor (33.0%)
+2592,101717,Revenda NFeMais - Plano Básico,Diferença Valor (33.0%)
+2593,101717,Revenda NFeMais - Plano Básico,Diferença Valor (33.0%)
+2594,101717,Revenda NFeMais - Plano Básico,Diferença Valor (33.0%)
+2595,101717,Revenda NFeMais - Plano Básico,Diferença Valor (33.0%)
+2596,101725,eGestor 4 - Plano Ultra,URL Contrato Ausente
+2600,101728,eGestor 4 - Plano Ultra,Diferença Valor (30.0%)
+2603,101729,eGestor 4 - Plano Padrão,Diferença Valor (53.9%)
+2609,100279,NFeMais - Plano Iniciante,URL Contrato Ausente
+2610,101734,NFeMais - Plano Básico,URL Contrato Ausente
+2611,101735,eGestor 4 - Plano Ouro,Diferença Valor (40.0%)
+2615,101740,NFeMais - Plano Básico,URL Contrato Ausente
+2622,101744,NFeMais - Plano Básico,URL Contrato Ausente
+2623,101743,NFeMais - Plano Ilimitado,Gap Cobrança (365 dias)
+2625,101746,eGestor 4 - Plano Ultra,URL Contrato Ausente
+2626,101747,NFeMais - Plano Ilimitado,URL Contrato Ausente
+2627,101748,NFeMais - Plano Básico,URL Contrato Ausente
+2628,101749,NFeMais - Plano Básico,URL Contrato Ausente
+2630,100715,eGestor 4 - Plano Ouro,URL Contrato Ausente
+2633,101750,Site Institucional,URL Contrato Ausente
+2637,101754,Revenda NFeMais - Plano Básico,Diferença Valor (33.0%)
+2638,101754,Revenda NFeMais - Plano Básico,Diferença Valor (33.0%)
+2639,101754,Revenda NFeMais - Plano Básico,Diferença Valor (33.0%)
+2640,101754,Revenda NFeMais - Plano Básico,Diferença Valor (33.0%)
+2641,101753,eGestor 4 - Plano Básico,URL Contrato Ausente
+2642,101755,Revenda eGestor 4 - Plano Avançado,Diferença Valor (50.0%)
+2643,101755,Revenda eGestor 4 - Plano Avançado,Diferença Valor (50.0%)
+2644,101756,NFeMais - Plano Básico,URL Contrato Ausente
+2646,101758,NFeMais - Plano Básico,URL Contrato Ausente
+2648,101759,Revenda NFeMais - Plano Básico,Diferença Valor (33.0%)
+2649,101759,Revenda NFeMais - Plano Básico,Diferença Valor (33.0%)
+2650,101759,Revenda NFeMais - Plano Básico,Diferença Valor (33.0%)
+2651,101759,Revenda NFeMais - Plano Básico,Diferença Valor (33.0%)
+2656,101490,eGestor 4 - Plano Avançado,URL Contrato Ausente | Diferença Valor (60.0%)
+2666,101768,NFeMais - Plano Básico,URL Contrato Ausente
+2667,101769,eGestor 4 - Plano Avançado,URL Contrato Ausente
+2668,101770,eGestor 4 - Plano Ultra,Diferença Valor (30.0%)
+2669,101772,NFeMais - Plano Básico,URL Contrato Ausente
+2671,101773,eGestor 4 - Plano Avançado,URL Contrato Ausente
+2673,101776,NFeMais - Plano Básico,URL Contrato Ausente | Gap Cobrança (365 dias)
+2677,101766,NFeMais - Plano Ilimitado,Gap Cobrança (365 dias)
+2682,101782,NFeMais - Plano Básico,URL Contrato Ausente
+2683,101783,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (38.5%)
+2684,101783,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (38.5%)
+2685,101783,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (38.5%)
+2686,101783,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (38.5%)
+2687,101784,NFeMais - Plano Ilimitado,URL Contrato Ausente
+2688,101785,NFeMais - Plano Básico,URL Contrato Ausente
+2690,101787,eGestor 4 - Micro,URL Contrato Ausente
+2691,101404,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (38.5%) | Gap Cobrança (62 dias)
+2692,101404,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (38.5%) | Gap Cobrança (62 dias)
+2693,100846,NFeMais - Plano Básico,URL Contrato Ausente
+2700,101791,eGestor 4 - Módulo Produção,Diferença Valor (100.0%)
+2701,101792,NFeMais - Plano Básico,URL Contrato Ausente
+2703,101794,NFeMais - Plano Básico,URL Contrato Ausente
+2705,101618,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (38.5%)
+2706,101618,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (38.5%)
+2707,101618,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (38.5%)
+2708,101795,NFeMais - Plano Básico,URL Contrato Ausente
+2718,101171,eGestor 4 - Plano Avançado,URL Contrato Ausente
+2723,101803,Revenda NFeMais - Plano Básico,Diferença Valor (66.7%)
+2724,101803,Revenda NFeMais - Plano Básico,URL Contrato Ausente | Diferença Valor (66.7%)
+2725,101803,Revenda NFeMais - Plano Básico,URL Contrato Ausente | Diferença Valor (66.7%)
+2728,101806,eGestor 4 - Plano Avançado,URL Contrato Ausente
+2733,101809,Revenda NFeMais - Plano Básico,Diferença Valor (66.7%)
+2734,101809,Revenda NFeMais - Plano Básico,Diferença Valor (66.7%)
+2735,101809,Revenda NFeMais - Plano Básico,Diferença Valor (66.7%)
+2736,101811,NFeMais - Plano Básico,URL Contrato Ausente
+2741,101281,eGestor 4 - Módulo NFe,URL Contrato Ausente | Diferença Valor (40.1%)
+2742,101814,NFeMais - Plano Básico,URL Contrato Ausente
+2746,100049,Site Institucional,URL Contrato Ausente | Diferença Valor (62.5%) | Data Futura (2066-08-10)
+2747,101818,NFeMais - Plano Básico,URL Contrato Ausente
+2748,100049,eGestor 4 - Plano Prata,URL Contrato Ausente
+2749,100049,Vitrine Online,URL Contrato Ausente
+2752,101821,eGestor 4 - Plano Ultra,Diferença Valor (30.0%)
+2756,101825,NFeMais - Plano Básico,URL Contrato Ausente
+2757,101826,NFeMais - Plano Ilimitado,URL Contrato Ausente
+2760,101404,Revenda eGestor 4 - Dash conta avulsa ,URL Contrato Ausente | Gap Cobrança (62 dias)
+2761,101404,Revenda eGestor 4 - Dash conta avulsa ,URL Contrato Ausente | Gap Cobrança (62 dias)
+2762,101836,NFeMais - Plano Básico,URL Contrato Ausente
+2763,101837,NFeMais - Plano Básico,URL Contrato Ausente
+2765,101839,NFeMais - Plano Básico,Diferença Valor (34.1%)
+2766,101840,eGestor 4 - Plano Iniciante,URL Contrato Ausente
+2769,101843,NFeMais - Plano Básico,URL Contrato Ausente
+2771,101847,eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (31.1%)
+2775,101535,Revenda eGestor 4 - Módulo PDV (pacote de 3 pontos),URL Contrato Ausente | Diferença Valor (100.0%)
+2778,101848,NFeMais - Plano Básico,URL Contrato Ausente
+2779,101849,NFeMais - Plano Básico,URL Contrato Ausente
+2780,101850,eGestor 4 - Micro,URL Contrato Ausente
+2781,101535,Revenda eGestor 4 - Módulo PDV (pacote de 3 pontos),URL Contrato Ausente | Diferença Valor (100.0%)
+2782,101535,Revenda eGestor 4 - Módulo PDV (pacote de 3 pontos),URL Contrato Ausente | Diferença Valor (100.0%)
+2783,101535,Revenda eGestor 4 - Módulo PDV (pacote de 3 pontos),URL Contrato Ausente | Diferença Valor (100.0%)
+2784,101851,eGestor 4 - Plano Bronze,URL Contrato Ausente
+2785,101852,eGestor 4 - Micro,URL Contrato Ausente
+2788,101854,eGestor 4 - Módulo NFe,URL Contrato Ausente
+2790,101856,eGestor 4 - Micro,URL Contrato Ausente
+2792,101858,NFeMais - Plano Básico,URL Contrato Ausente
+2794,101859,NFeMais - Plano Básico,URL Contrato Ausente
+2795,101861,eGestor 4 - Plano Avançado,Diferença Valor (35.0%)
+2796,101862,NFeMais - Plano Básico,URL Contrato Ausente
+2800,101865,NFeMais - Plano Básico,URL Contrato Ausente
+2802,101867,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2803,101867,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2804,101867,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2805,101867,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2806,101867,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2808,101870,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.4%)
+2809,101870,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.4%)
+2810,101870,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.4%)
+2812,101545,eGestor 4 - Plano Ultra,Diferença Valor (30.0%)
+2814,101872,eGestor 4 - Plano Prata,Diferença Valor (45.0%)
+2817,101875,NFeMais - Plano Ilimitado,URL Contrato Ausente
+2818,101876,NFeMais - Plano Básico,URL Contrato Ausente
+2820,101877,eGestor 4 - Plano Ultra,URL Contrato Ausente
+2821,101874,eGestor 4 - Plano Ultra,URL Contrato Ausente
+2822,101878,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2823,101878,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2824,101878,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2825,101878,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2826,101878,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2830,101882,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2831,101882,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (38.5%)
+2832,101882,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (38.5%)
+2833,101883,NFeMais - Plano Básico,URL Contrato Ausente
+2834,101429,NFeMais - Plano Básico,URL Contrato Ausente
+2835,101884,NFeMais - Plano Básico,URL Contrato Ausente
+2837,101885,NFeMais - Plano Básico,URL Contrato Ausente
+2852,101895,eGestor 4 - Plano Bronze,Gap Cobrança (365 dias)
+2853,101896,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2854,101896,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2855,101896,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2856,101896,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2857,101896,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2859,101898,NFeMais - Plano Básico,URL Contrato Ausente
+2860,101899,eGestor 4 - Plano Bronze,URL Contrato Ausente
+2861,101900,NFeMais - Plano Básico,URL Contrato Ausente
+2864,101903,eGestor 4 - Plano Avançado,URL Contrato Ausente
+2869,101908,NFeMais - Plano Básico,URL Contrato Ausente
+2873,101912,NFeMais - Plano Básico,URL Contrato Ausente
+2874,101913,eGestor 4 - Plano Ultra,URL Contrato Ausente
+2875,101915,NFeMais - Plano Básico,URL Contrato Ausente
+2876,101914,eGestor 4 - Plano Ultra,URL Contrato Ausente
+2877,100349,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+2880,101916,eGestor 4 - Módulo NFe,URL Contrato Ausente
+2899,101801,eGestor 4 - Adicional Usuários,URL Contrato Ausente
+2901,101927,NFeMais - Plano Básico,URL Contrato Ausente
+2902,101928,NFeMais - Plano Básico,URL Contrato Ausente
+2905,101931,eGestor 4 - Plano Prata,URL Contrato Ausente | Diferença Valor (83.5%)
+2909,101209,eGestor 4 - Plano Ouro,URL Contrato Ausente
+2910,101934,NFeMais - Plano Básico,URL Contrato Ausente
+2921,100815,NFeMais - Plano Iniciante,URL Contrato Ausente | Diferença Valor (33.4%)
+2926,101945,NFeMais - Plano Ilimitado,URL Contrato Ausente
+2927,101946,NFeMais - Plano Ilimitado,URL Contrato Ausente
+2929,101916,eGestor 4 - Módulo NFSe,URL Contrato Ausente
+2930,101948,NFeMais - Plano Ilimitado,URL Contrato Ausente
+2931,101949,NFeMais - Plano Ilimitado,URL Contrato Ausente
+2932,101950,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (38.5%)
+2933,101950,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (38.5%)
+2934,101950,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (38.5%)
+2935,101950,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (38.5%)
+2936,101950,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (38.5%)
+2939,101953,eGestor 4 - Plano Ouro,URL Contrato Ausente
+2945,101956,NFeMais - Plano Básico,URL Contrato Ausente
+2946,101957,eGestor 4 - Plano Avançado,Diferença Valor (30.0%)
+2947,101958,NFeMais - Plano Básico,URL Contrato Ausente
+2949,101960,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2950,101960,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2951,101960,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2952,101960,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2953,101960,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2956,101963,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2957,101963,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2958,101963,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2959,101963,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2960,101963,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2961,101964,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.4%)
+2962,101964,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.4%)
+2963,101964,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.4%)
+2967,101969,eGestor 4 - Plano Avançado,Diferença Valor (36.0%)
+2968,101970,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2969,101970,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2970,101970,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+2972,101938,eGestor 4 - Plano Padrão,URL Contrato Ausente
+2973,101972,NFeMais - Plano Básico,URL Contrato Ausente
+2984,101982,NFeMais - Plano Básico,URL Contrato Ausente
+2986,101985,NFeMais - Plano Básico,URL Contrato Ausente
+2987,101986,Revenda NFeMais - Plano Ilimitado,URL Contrato Ausente
+2988,101986,Revenda NFeMais - Plano Ilimitado,URL Contrato Ausente
+2989,101986,Revenda NFeMais - Plano Ilimitado,URL Contrato Ausente
+2991,101984,eGestor 4 - Plano Avançado,URL Contrato Ausente
+2992,101984,Site Institucional,URL Contrato Ausente
+2993,101987,eGestor 4 - Plano Ouro,URL Contrato Ausente
+2994,101987,eGestor 4 - Módulo NFSe,Diferença Valor (57.1%)
+3003,101995,Revenda NFeMais - Plano Básico,Diferença Valor (53.0%)
+3004,101995,Revenda NFeMais - Plano Básico,Diferença Valor (53.0%)
+3005,101995,Revenda NFeMais - Plano Básico,Diferença Valor (53.0%)
+3006,101995,Revenda NFeMais - Plano Básico,Diferença Valor (53.0%)
+3008,101996,NFeMais - Plano Ilimitado,URL Contrato Ausente
+3009,101998,NFeMais - Plano Básico,URL Contrato Ausente
+3013,102001,eGestor 4 - Plano Avançado,URL Contrato Ausente
+3014,102002,NFeMais - Plano Básico,URL Contrato Ausente
+3015,102003,NFeMais - Plano Básico,URL Contrato Ausente
+3017,102007,NFeMais - Plano Básico,URL Contrato Ausente
+3019,102008,eGestor 4 - Plano Avançado,URL Contrato Ausente | Diferença Valor (40.0%)
+3021,102010,NFeMais - Plano Ilimitado,URL Contrato Ausente
+3027,102012,NFeMais - Plano Ilimitado,URL Contrato Ausente
+3028,100081,eGestor 4 - Plano Ouro,URL Contrato Ausente
+3030,101170,NFeMais - Plano Ilimitado,URL Contrato Ausente
+3032,102014,Revenda NFeMais - Plano Ilimitado,URL Contrato Ausente
+3033,102014,Revenda NFeMais - Plano Ilimitado,URL Contrato Ausente
+3034,102015,eGestor 4 - Plano Avançado,Diferença Valor (30.0%)
+3036,102016,NFeMais - Plano Básico,URL Contrato Ausente
+3037,102017,NFeMais - Plano Básico,URL Contrato Ausente
+3039,102019,NFeMais - Plano Básico,URL Contrato Ausente
+3040,102021,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+3041,102021,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+3042,102021,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+3043,102021,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+3044,102021,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+3045,102022,NFeMais - Plano Básico,URL Contrato Ausente
+3046,102023,NFeMais - Plano Básico,URL Contrato Ausente
+3049,102025,NFeMais - Plano Básico,URL Contrato Ausente
+3054,100574,NFeMais - Plano Ilimitado,URL Contrato Ausente
+3055,100349,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+3056,100349,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+3057,101672,NFeMais - Plano Ilimitado,URL Contrato Ausente
+3064,102030,NFeMais - Plano Básico,URL Contrato Ausente
+3066,102032,eGestor 4 - Plano Iniciante,URL Contrato Ausente | Diferença Valor (30.0%)
+3080,100731,Vitrine Online,URL Contrato Ausente | Diferença Valor (45.0%)
+3094,102044,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+3095,102044,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente
+3096,102045,NFeMais - Plano Básico,URL Contrato Ausente
+3097,102046,NFeMais - Plano Básico,URL Contrato Ausente
+3098,100023,Vitrine Online,Diferença Valor (50.0%)
+3099,102047,NFeMais - Plano Básico,Diferença Valor (35.0%)
+3100,102048,NFeMais - Plano Básico,Diferença Valor (35.0%)
+3101,101643,NFeMais - Plano Ilimitado,URL Contrato Ausente
+3102,102049,NFeMais - Plano Básico,URL Contrato Ausente
+3105,102052,NFeMais - Plano Básico,URL Contrato Ausente
+3107,101605,NFeMais - Plano Ilimitado,URL Contrato Ausente
+3110,102056,NFeMais - Plano Básico,URL Contrato Ausente
+3112,102058,NFeMais - Plano Ilimitado,URL Contrato Ausente
+3114,102059,Revenda eGestor 4 - Plano Avançado,URL Contrato Ausente
+3115,102059,Revenda eGestor 4 - Plano Avançado,URL Contrato Ausente
+3116,102059,Revenda eGestor 4 - Plano Avançado,URL Contrato Ausente
+3117,102059,Revenda eGestor 4 - Plano Avançado,URL Contrato Ausente
+3119,101857,eGestor 4 - Plano Avançado,URL Contrato Ausente
+3122,102063,eGestor 4 - Plano Prata,URL Contrato Ausente
+3124,101281,Vitrine Online,Diferença Valor (60.0%)
+3127,102066,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (38.5%)
+3128,102066,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (38.5%)
+3129,102066,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (38.5%)
+3130,102067,eGestor 4 - Plano Prata,URL Contrato Ausente
+3133,102040,eGestor 4 - Módulo Produção,URL Contrato Ausente
+3134,102069,eGestor 4 - Plano Ouro,URL Contrato Ausente
+3137,101703,NFeMais - Plano Ilimitado,URL Contrato Ausente
+3138,102071,NFeMais - Plano Ilimitado,URL Contrato Ausente
+3139,102072,eGestor 4 - Plano Avançado,URL Contrato Ausente
+3144,102076,eGestor 4 - Plano Prata,URL Contrato Ausente
+3147,102075,Revenda NFeMais - Plano Básico,Diferença Valor (33.3%)
+3151,102080,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+3152,102080,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+3153,102080,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+3154,102080,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+3155,102080,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+3157,101157,NFeMais - Plano Ilimitado,URL Contrato Ausente
+3159,102082,eGestor 4 - Plano Bronze,URL Contrato Ausente
+3160,102083,NFeMais - Plano Ilimitado,URL Contrato Ausente
+3163,102084,Revenda eGestor 4 - Plano Avançado,URL Contrato Ausente
+3164,102084,Revenda eGestor 4 - Plano Avançado,URL Contrato Ausente
+3165,102084,Revenda eGestor 4 - Plano Avançado,URL Contrato Ausente
+3168,102087,Revenda eGestor 4 - Plano Ultra,Diferença Valor (38.5%)
+3169,102087,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (38.5%)
+3170,102087,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (38.5%)
+3172,102089,eGestor 4 - Plano Bronze,Diferença Valor (41.8%)
+3173,102089,eGestor 4 - Plano Bronze,Diferença Valor (41.8%)
+3174,102086,eGestor 4 - Plano Avançado,URL Contrato Ausente | Diferença Valor (30.0%)
+3175,101944,NFeMais - Plano Ilimitado,URL Contrato Ausente
+3194,100289,eGestor 4 - Plano Avançado,URL Contrato Ausente
+3197,102099,Revenda NFeMais - Plano Básico,URL Contrato Ausente
+3198,102099,Revenda NFeMais - Plano Básico,URL Contrato Ausente
+3199,102099,Revenda NFeMais - Plano Básico,URL Contrato Ausente
+3200,102099,Revenda NFeMais - Plano Básico,URL Contrato Ausente
+3201,102099,Revenda NFeMais - Plano Básico,URL Contrato Ausente
+3202,102099,Revenda NFeMais - Plano Básico,URL Contrato Ausente
+3203,102099,Revenda NFeMais - Plano Básico,URL Contrato Ausente
+3204,102099,Revenda NFeMais - Plano Básico,URL Contrato Ausente
+3205,102099,Revenda NFeMais - Plano Básico,URL Contrato Ausente
+3206,102099,Revenda NFeMais - Plano Básico,URL Contrato Ausente
+3207,102099,Revenda NFeMais - Plano Básico,URL Contrato Ausente
+3208,102099,Revenda NFeMais - Plano Básico,URL Contrato Ausente
+3209,102099,Revenda NFeMais - Plano Básico,URL Contrato Ausente
+3210,102099,Revenda NFeMais - Plano Básico,URL Contrato Ausente
+3211,102099,Revenda NFeMais - Plano Básico,URL Contrato Ausente
+3212,102099,Revenda NFeMais - Plano Básico,URL Contrato Ausente
+3213,102099,Revenda NFeMais - Plano Básico,URL Contrato Ausente
+3214,102099,Revenda NFeMais - Plano Básico,URL Contrato Ausente
+3215,102099,Revenda NFeMais - Plano Básico,URL Contrato Ausente
+3216,102099,Revenda NFeMais - Plano Básico,URL Contrato Ausente
+3218,102100,NFeMais - Plano Básico,URL Contrato Ausente
+3219,102101,NFeMais - Plano Básico,URL Contrato Ausente
+3220,102102,NFeMais - Plano Básico,URL Contrato Ausente
+3222,102104,eGestor 4 - Plano Prata,Diferença Valor (41.3%)
+3223,102105,NFeMais - Plano Básico,URL Contrato Ausente
+3224,102106,NFeMais - Plano Básico,URL Contrato Ausente
+3225,102051,eGestor 4 - Plano Prata,URL Contrato Ausente
+3232,100692,NFeMais - Plano Ilimitado,URL Contrato Ausente
+3234,102113,eGestor 4 - Plano Ultra,URL Contrato Ausente
+3235,100670,eGestor 4 - Plano Ultra,Diferença Valor (30.0%)
+3238,102116,NFeMais - Plano Ilimitado,URL Contrato Ausente
+3239,102117,Revenda eGestor 4 - Plano Ultra,Diferença Valor (42.5%)
+3240,102117,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (42.5%)
+3241,102117,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (42.5%)
+3242,102117,Revenda eGestor 4 - Plano Ultra,URL Contrato Ausente | Diferença Valor (42.5%)
+3243,102118,eGestor 4 - Plano Iniciante,Diferença Valor (50.0%)
+3245,102120,eGestor 4 - Plano Avançado,URL Contrato Ausente
+3247,102122,NFeMais - Plano Básico,URL Contrato Ausente
+3248,102123,NFeMais - Plano Básico,URL Contrato Ausente
+3249,102124,eGestor 4 - Plano Avançado,Diferença Valor (30.3%)
+3250,100027,eGestor 4 - Plano Iniciante,URL Contrato Ausente | Diferença Valor (71.4%)
+3251,100000,eGestor 4 - Plano Bronze,URL Contrato Ausente
+3252,100000,eGestor 4 - Plano Avançado,URL Contrato Ausente
