@@ -1,75 +1,4150 @@
 {
-  "total_ativos": 0,
-  "alertas_individuais": 1132,
-  "planos_com_erro_base": [
-    "eGestor 4 - Plano Bronze",
-    "eGestor 4 - Ultra",
-    "eGestor 4 - Prata",
-    "eGestor 4 - Bronze",
-    "eGestor 4 - Avan\u00e7ado",
-    "NFe+ B\u00e1sico",
-    "eGestor 4 - B\u00e1sico",
-    "NFe+ Iniciante",
-    "Nfe+ Ilimitado",
-    "eGestor 4 - Plano Iniciante",
-    "eGestor 4 - Ouro",
-    "eGestor 4 -Mdfe",
-    "NFeMais - Plano Ilimitado",
-    "eGestor 4 - Plano Ultra",
-    "NFeMais - Plano B\u00e1sico",
-    "eGestor 4 - Plano Avan\u00e7ado",
-    "eGestor 4 - Plano B\u00e1sico",
-    "eGestor 4 - Plano Prata",
-    "NFeMais - Plano Iniciante",
-    "eGestor 4 - M\u00f3dulo NFe",
-    "eGestor 4 - Plano Ouro",
-    "eGestor 4 - Adicional Usu\u00e1rios",
-    "eGestor 4 - M\u00f3dulo PDV",
-    "eGestor 4 - Adicional Espa\u00e7o Disco Virtual",
-    "eGestor 4 - M\u00f3dulo NFSe",
-    "eGestor 4 - M\u00f3dulo NFCe",
-    "eGestor 4 - M\u00f3dulo MDFe",
-    "eGestor 4 - Plano Padr\u00e3o",
-    "eGestor 4 - M\u00f3dulo Produ\u00e7\u00e3o",
-    "GetCommerce",
-    "Vitrine Online",
-    "eGestor 3 - Plano Avan\u00e7ado",
-    "eGestor 3 - Adicional Usu\u00e1rios"
-  ],
-  "detalhes_planos": {
-    "eGestor 4 - Plano Bronze": 82,
-    "eGestor 4 - Ultra": 6,
-    "eGestor 4 - Prata": 3,
-    "eGestor 4 - Bronze": 5,
-    "eGestor 4 - Avan\u00e7ado": 10,
-    "NFe+ B\u00e1sico": 8,
-    "eGestor 4 - B\u00e1sico": 2,
-    "NFe+ Iniciante": 1,
-    "Nfe+ Ilimitado": 4,
-    "eGestor 4 - Plano Iniciante": 27,
-    "eGestor 4 - Ouro": 2,
-    "eGestor 4 -Mdfe": 1,
-    "NFeMais - Plano Ilimitado": 64,
-    "eGestor 4 - Plano Ultra": 75,
-    "NFeMais - Plano B\u00e1sico": 137,
-    "eGestor 4 - Plano Avan\u00e7ado": 101,
-    "eGestor 4 - Plano B\u00e1sico": 10,
-    "eGestor 4 - Plano Prata": 23,
-    "NFeMais - Plano Iniciante": 15,
-    "eGestor 4 - M\u00f3dulo NFe": 10,
-    "eGestor 4 - Plano Ouro": 27,
-    "eGestor 4 - Adicional Usu\u00e1rios": 4,
-    "eGestor 4 - M\u00f3dulo PDV": 3,
-    "eGestor 4 - Adicional Espa\u00e7o Disco Virtual": 2,
-    "eGestor 4 - M\u00f3dulo NFSe": 12,
-    "eGestor 4 - M\u00f3dulo NFCe": 6,
-    "eGestor 4 - M\u00f3dulo MDFe": 3,
-    "eGestor 4 - Plano Padr\u00e3o": 5,
-    "eGestor 4 - M\u00f3dulo Produ\u00e7\u00e3o": 3,
-    "GetCommerce": 1,
-    "Vitrine Online": 8,
-    "eGestor 3 - Plano Avan\u00e7ado": 1,
-    "eGestor 3 - Adicional Usu\u00e1rios": 3
+  "last_update": "06/02/2026 14:01",
+  "summary": {
+    "total_alerts": 1132,
+    "structural_errors": 33,
+    "by_type": {
+      "URL Contrato Ausente": 721,
+      "Desconto Excessivo (>30%)": 514,
+      "Gap de Cobran\u00e7a (>40 dias)": 29,
+      "Sem Pr\u00f3xima Cobran\u00e7a": 0,
+      "Data Futura Suspeita": 3
+    }
   },
-  "data_auditoria": "2026-02-05 20:13"
+  "structural_list": [
+    {
+      "nome": "NFeMais - Plano B\u00e1sico",
+      "impacto": 137
+    },
+    {
+      "nome": "eGestor 4 - Plano Avan\u00e7ado",
+      "impacto": 101
+    },
+    {
+      "nome": "eGestor 4 - Plano Bronze",
+      "impacto": 82
+    },
+    {
+      "nome": "eGestor 4 - Plano Ultra",
+      "impacto": 75
+    },
+    {
+      "nome": "NFeMais - Plano Ilimitado",
+      "impacto": 64
+    },
+    {
+      "nome": "eGestor 4 - Plano Iniciante",
+      "impacto": 27
+    },
+    {
+      "nome": "eGestor 4 - Plano Ouro",
+      "impacto": 27
+    },
+    {
+      "nome": "eGestor 4 - Plano Prata",
+      "impacto": 23
+    },
+    {
+      "nome": "NFeMais - Plano Iniciante",
+      "impacto": 15
+    },
+    {
+      "nome": "eGestor 4 - M\u00f3dulo NFSe",
+      "impacto": 12
+    },
+    {
+      "nome": "eGestor 4 - Avan\u00e7ado",
+      "impacto": 10
+    },
+    {
+      "nome": "eGestor 4 - Plano B\u00e1sico",
+      "impacto": 10
+    },
+    {
+      "nome": "eGestor 4 - M\u00f3dulo NFe",
+      "impacto": 10
+    },
+    {
+      "nome": "NFe+ B\u00e1sico",
+      "impacto": 8
+    },
+    {
+      "nome": "Vitrine Online",
+      "impacto": 8
+    },
+    {
+      "nome": "eGestor 4 - Ultra",
+      "impacto": 6
+    },
+    {
+      "nome": "eGestor 4 - M\u00f3dulo NFCe",
+      "impacto": 6
+    },
+    {
+      "nome": "eGestor 4 - Bronze",
+      "impacto": 5
+    },
+    {
+      "nome": "eGestor 4 - Plano Padr\u00e3o",
+      "impacto": 5
+    },
+    {
+      "nome": "Nfe+ Ilimitado",
+      "impacto": 4
+    },
+    {
+      "nome": "eGestor 4 - Adicional Usu\u00e1rios",
+      "impacto": 4
+    },
+    {
+      "nome": "eGestor 4 - Prata",
+      "impacto": 3
+    },
+    {
+      "nome": "eGestor 4 - M\u00f3dulo PDV",
+      "impacto": 3
+    },
+    {
+      "nome": "eGestor 4 - M\u00f3dulo MDFe",
+      "impacto": 3
+    },
+    {
+      "nome": "eGestor 4 - M\u00f3dulo Produ\u00e7\u00e3o",
+      "impacto": 3
+    },
+    {
+      "nome": "eGestor 3 - Adicional Usu\u00e1rios",
+      "impacto": 3
+    },
+    {
+      "nome": "eGestor 4 - B\u00e1sico",
+      "impacto": 2
+    },
+    {
+      "nome": "eGestor 4 - Ouro",
+      "impacto": 2
+    },
+    {
+      "nome": "eGestor 4 - Adicional Espa\u00e7o Disco Virtual",
+      "impacto": 2
+    },
+    {
+      "nome": "NFe+ Iniciante",
+      "impacto": 1
+    },
+    {
+      "nome": "eGestor 4 -Mdfe",
+      "impacto": 1
+    },
+    {
+      "nome": "GetCommerce",
+      "impacto": 1
+    },
+    {
+      "nome": "eGestor 3 - Plano Avan\u00e7ado",
+      "impacto": 1
+    }
+  ],
+  "individual_list": [
+    {
+      "id": "4",
+      "cliente": "100000",
+      "plano": "NFe+",
+      "periodo": "1M",
+      "valor": 13.46,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (82.7%)"
+    },
+    {
+      "id": "11",
+      "cliente": "100004",
+      "plano": "eGestor 4 - Bronze",
+      "periodo": "12M",
+      "valor": 1200.0,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (71.4%)"
+    },
+    {
+      "id": "12",
+      "cliente": "100005",
+      "plano": "eGestor 4 - Bronze",
+      "periodo": "1M",
+      "valor": 79.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "14",
+      "cliente": "100007",
+      "plano": "eGestor 4 - Ultra",
+      "periodo": "1M",
+      "valor": 279.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "17",
+      "cliente": "100008",
+      "plano": "Site institucional",
+      "periodo": "1M",
+      "valor": 80.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "22",
+      "cliente": "100009",
+      "plano": "eGestor 4 - Bronze",
+      "periodo": "1M",
+      "valor": 120.0,
+      "alertas": "Desconto Excessivo (50.2%) | Gap Cobran\u00e7a (62 dias)"
+    },
+    {
+      "id": "35",
+      "cliente": "100015",
+      "plano": "eGestor 4 - Bronze",
+      "periodo": "1M",
+      "valor": 119.9,
+      "alertas": "Desconto Excessivo (50.1%)"
+    },
+    {
+      "id": "59",
+      "cliente": "100032",
+      "plano": "eGestor 4 - Ultra",
+      "periodo": "12M",
+      "valor": 2351.16,
+      "alertas": "Desconto Excessivo (30.0%)"
+    },
+    {
+      "id": "62",
+      "cliente": "100034",
+      "plano": "eGestor 4 - Bronze",
+      "periodo": "1M",
+      "valor": 149.9,
+      "alertas": "Desconto Excessivo (36.4%)"
+    },
+    {
+      "id": "72",
+      "cliente": "100042",
+      "plano": "eGestor 4 - Bronze",
+      "periodo": "12M",
+      "valor": 1798.8,
+      "alertas": "Desconto Excessivo (36.4%)"
+    },
+    {
+      "id": "90",
+      "cliente": "100058",
+      "plano": "eGestor 4 - Plano Iniciante",
+      "periodo": "12M",
+      "valor": 1763.16,
+      "alertas": "Desconto Excessivo (30.0%)"
+    },
+    {
+      "id": "92",
+      "cliente": "100061",
+      "plano": "NFe+ B\u00e1sico",
+      "periodo": "12M",
+      "valor": 950.0,
+      "alertas": "Desconto Excessivo (32.0%)"
+    },
+    {
+      "id": "93",
+      "cliente": "100060",
+      "plano": "Revenda eGestor 4 - Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 100.0,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (100.0%)"
+    },
+    {
+      "id": "95",
+      "cliente": "100060",
+      "plano": "Revenda NFe+",
+      "periodo": "1M",
+      "valor": 50.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "100",
+      "cliente": "100066",
+      "plano": "Site institucional",
+      "periodo": "4P",
+      "valor": 1560.0,
+      "alertas": "Desconto Excessivo (62.5%)"
+    },
+    {
+      "id": "105",
+      "cliente": "100071",
+      "plano": "NFe+ B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "110",
+      "cliente": "100074",
+      "plano": "NFe+ B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "112",
+      "cliente": "100077",
+      "plano": "NFe+ B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "118",
+      "cliente": "100082",
+      "plano": "Revenda B\u00e1sico NFe+",
+      "periodo": "1M",
+      "valor": 150.0,
+      "alertas": "Desconto Excessivo (400.0%)"
+    },
+    {
+      "id": "119",
+      "cliente": "100084",
+      "plano": "NFe+ B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "121",
+      "cliente": "100086",
+      "plano": "NFe+ B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente | Gap Cobran\u00e7a (90 dias)"
+    },
+    {
+      "id": "123",
+      "cliente": "100088",
+      "plano": "eGestor 4 - Ultra",
+      "periodo": "12M",
+      "valor": 3358.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "124",
+      "cliente": "100089",
+      "plano": "Nfe+ Ilimitado",
+      "periodo": "1M",
+      "valor": 149.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "125",
+      "cliente": "100090",
+      "plano": "eGestor 4 - Plano Iniciante",
+      "periodo": "12M",
+      "valor": 2518.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "130",
+      "cliente": "100095",
+      "plano": "eGestor 4 - Ultra",
+      "periodo": "1M",
+      "valor": 279.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "135",
+      "cliente": "100100",
+      "plano": "NFe+ B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "136",
+      "cliente": "100101",
+      "plano": "eGestor 4 - Plano Iniciante",
+      "periodo": "1M",
+      "valor": 209.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "145",
+      "cliente": "100106",
+      "plano": "eGestor 4 - Avan\u00e7ado",
+      "periodo": "12M",
+      "valor": 2048.8,
+      "alertas": "Desconto Excessivo (31.7%)"
+    },
+    {
+      "id": "146",
+      "cliente": "100107",
+      "plano": "Revenda eGestor 4 - Ultra",
+      "periodo": "1M",
+      "valor": 280.0,
+      "alertas": "Desconto Excessivo (460.0%)"
+    },
+    {
+      "id": "152",
+      "cliente": "100113",
+      "plano": "NFe+ B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "155",
+      "cliente": "100116",
+      "plano": "eGestor 4 - Ultra",
+      "periodo": "1M",
+      "valor": 279.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "162",
+      "cliente": "100123",
+      "plano": "Site institucional",
+      "periodo": "12M",
+      "valor": 1560.0,
+      "alertas": "Desconto Excessivo (62.5%)"
+    },
+    {
+      "id": "164",
+      "cliente": "100104",
+      "plano": "NFe+ B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "175",
+      "cliente": "100128",
+      "plano": "Nfe+ Ilimitado",
+      "periodo": "1M",
+      "valor": 149.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "176",
+      "cliente": "100133",
+      "plano": "Revenda eGestor 4 - Ultra",
+      "periodo": "1M",
+      "valor": 699.3,
+      "alertas": "Desconto Excessivo (438.3%)"
+    },
+    {
+      "id": "177",
+      "cliente": "100135",
+      "plano": "Revenda B\u00e1sico NFe+",
+      "periodo": "1M",
+      "valor": 160.0,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (433.3%)"
+    },
+    {
+      "id": "180",
+      "cliente": "100134",
+      "plano": "eGestor 4 - B\u00e1sico",
+      "periodo": "1M",
+      "valor": 219.9,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (83.2%)"
+    },
+    {
+      "id": "182",
+      "cliente": "100139",
+      "plano": "NFe+ B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "183",
+      "cliente": "100140",
+      "plano": "eGestor 4 - Bronze",
+      "periodo": "5P",
+      "valor": 923.16,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "192",
+      "cliente": "100149",
+      "plano": "NFe+ B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "208",
+      "cliente": "100140",
+      "plano": "Site institucional",
+      "periodo": "1M",
+      "valor": 130.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "222",
+      "cliente": "100171",
+      "plano": "Revenda NFe+",
+      "periodo": "1M",
+      "valor": 150.0,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (200.0%)"
+    },
+    {
+      "id": "225",
+      "cliente": "100174",
+      "plano": "Revenda eGestor 4 - Ultra",
+      "periodo": "1M",
+      "valor": 260.0,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (100.2%)"
+    },
+    {
+      "id": "229",
+      "cliente": "100177",
+      "plano": "Revenda B\u00e1sico NFe+",
+      "periodo": "1M",
+      "valor": 164.7,
+      "alertas": "Desconto Excessivo (449.0%)"
+    },
+    {
+      "id": "230",
+      "cliente": "100167",
+      "plano": "Revenda eGestor 4 - Ultra",
+      "periodo": "1M",
+      "valor": 260.0,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (100.2%)"
+    },
+    {
+      "id": "233",
+      "cliente": "100181",
+      "plano": "eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 279.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "234",
+      "cliente": "100182",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "12M",
+      "valor": 2099.16,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (30.0%)"
+    },
+    {
+      "id": "236",
+      "cliente": "100184",
+      "plano": "eGestor 4 - M\u00f3dulo NFe",
+      "periodo": "12M",
+      "valor": 125.58,
+      "alertas": "Desconto Excessivo (79.0%)"
+    },
+    {
+      "id": "237",
+      "cliente": "100184",
+      "plano": "eGestor 4 - M\u00f3dulo NFCe",
+      "periodo": "12M",
+      "valor": 125.58,
+      "alertas": "Desconto Excessivo (79.0%)"
+    },
+    {
+      "id": "242",
+      "cliente": "100187",
+      "plano": "eGestor 4 - Plano Ultra",
+      "periodo": "12M",
+      "valor": 2351.16,
+      "alertas": "Desconto Excessivo (30.0%)"
+    },
+    {
+      "id": "244",
+      "cliente": "100188",
+      "plano": "Revenda NFeMais - Plano Ilimitado",
+      "periodo": "1M",
+      "valor": 150.0,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (200.0%)"
+    },
+    {
+      "id": "245",
+      "cliente": "100189",
+      "plano": "Old eGestor 4 - Basic",
+      "periodo": "1M",
+      "valor": 149.9,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (150.3%)"
+    },
+    {
+      "id": "247",
+      "cliente": "100191",
+      "plano": "NFeMais - Plano Ilimitado",
+      "periodo": "5P",
+      "valor": 1750.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "250",
+      "cliente": "100194",
+      "plano": "eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 195.93,
+      "alertas": "Gap Cobran\u00e7a (95 dias)"
+    },
+    {
+      "id": "252",
+      "cliente": "100196",
+      "plano": "eGestor 4 - Plano Ultra",
+      "periodo": "12M",
+      "valor": 2351.16,
+      "alertas": "Desconto Excessivo (30.0%)"
+    },
+    {
+      "id": "255",
+      "cliente": "100199",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "257",
+      "cliente": "100201",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "259",
+      "cliente": "100203",
+      "plano": "Revenda eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 160.0,
+      "alertas": "Desconto Excessivo (220.0%)"
+    },
+    {
+      "id": "262",
+      "cliente": "100206",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "267",
+      "cliente": "100211",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "268",
+      "cliente": "100213",
+      "plano": "NFeMais - Plano Ilimitado",
+      "periodo": "1M",
+      "valor": 149.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "270",
+      "cliente": "100177",
+      "plano": "Revenda Site - Parceiro",
+      "periodo": "1M",
+      "valor": 100.0,
+      "alertas": "Desconto Excessivo (33.3%)"
+    },
+    {
+      "id": "275",
+      "cliente": "100218",
+      "plano": "eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 279.9,
+      "alertas": "URL Contrato Ausente | Gap Cobran\u00e7a (68 dias)"
+    },
+    {
+      "id": "285",
+      "cliente": "100225",
+      "plano": "eGestor 4 - Plano Iniciante",
+      "periodo": "12M",
+      "valor": 1763.16,
+      "alertas": "Desconto Excessivo (30.0%)"
+    },
+    {
+      "id": "290",
+      "cliente": "100229",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 300.0,
+      "alertas": "Desconto Excessivo (130.9%)"
+    },
+    {
+      "id": "294",
+      "cliente": "100229",
+      "plano": "Revenda Site - Parceiro",
+      "periodo": "1M",
+      "valor": 100.0,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (33.3%)"
+    },
+    {
+      "id": "295",
+      "cliente": "100234",
+      "plano": "NFeMais - Plano Iniciante",
+      "periodo": "1M",
+      "valor": 59.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "298",
+      "cliente": "100236",
+      "plano": "eGestor 4 - Plano Iniciante",
+      "periodo": "12M",
+      "valor": 1560.0,
+      "alertas": "Desconto Excessivo (38.1%)"
+    },
+    {
+      "id": "300",
+      "cliente": "100183",
+      "plano": "GetCommerce",
+      "periodo": "1M",
+      "valor": 299.0,
+      "alertas": "Desconto Excessivo (33.1%)"
+    },
+    {
+      "id": "314",
+      "cliente": "100249",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "315",
+      "cliente": "100250",
+      "plano": "eGestor 4 - Plano Bronze",
+      "periodo": "12M",
+      "valor": 1259.16,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "319",
+      "cliente": "100099",
+      "plano": "eGestor 4 - Plano Ouro",
+      "periodo": "12M",
+      "valor": 1834.98,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "339",
+      "cliente": "100267",
+      "plano": "NFeMais - Plano Ilimitado",
+      "periodo": "1M",
+      "valor": 149.9,
+      "alertas": "URL Contrato Ausente | Gap Cobran\u00e7a (92 dias)"
+    },
+    {
+      "id": "346",
+      "cliente": "100276",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "349",
+      "cliente": "100278",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "351",
+      "cliente": "100280",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "352",
+      "cliente": "100281",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "354",
+      "cliente": "100285",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "361",
+      "cliente": "100291",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 300.0,
+      "alertas": "Desconto Excessivo (130.9%)"
+    },
+    {
+      "id": "369",
+      "cliente": "100296",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "12M",
+      "valor": 2099.16,
+      "alertas": "Desconto Excessivo (30.0%)"
+    },
+    {
+      "id": "372",
+      "cliente": "100300",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "378",
+      "cliente": "100303",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "380",
+      "cliente": "100203",
+      "plano": "Revenda NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 40.0,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (33.3%)"
+    },
+    {
+      "id": "387",
+      "cliente": "100310",
+      "plano": "Revenda NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 120.0,
+      "alertas": "Desconto Excessivo (300.0%)"
+    },
+    {
+      "id": "389",
+      "cliente": "100312",
+      "plano": "Revenda NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 150.0,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (400.0%)"
+    },
+    {
+      "id": "390",
+      "cliente": "100313",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 649.5,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (400.0%)"
+    },
+    {
+      "id": "391",
+      "cliente": "100314",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "3P",
+      "valor": 1100.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "392",
+      "cliente": "100313",
+      "plano": "Revenda eGestor 4 - B\u00f4nus Parceiro",
+      "periodo": "1M",
+      "valor": 0.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "396",
+      "cliente": "100317",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "401",
+      "cliente": "100323",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "402",
+      "cliente": "100265",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "4P",
+      "valor": 1900.0,
+      "alertas": "Gap Cobran\u00e7a (365 dias)"
+    },
+    {
+      "id": "407",
+      "cliente": "100327",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "408",
+      "cliente": "100328",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "12M",
+      "valor": 2099.16,
+      "alertas": "Desconto Excessivo (30.0%)"
+    },
+    {
+      "id": "409",
+      "cliente": "100329",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "4P",
+      "valor": 1900.0,
+      "alertas": "URL Contrato Ausente | Gap Cobran\u00e7a (365 dias)"
+    },
+    {
+      "id": "410",
+      "cliente": "100331",
+      "plano": "NFeMais - Plano Ilimitado",
+      "periodo": "3P",
+      "valor": 1650.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "411",
+      "cliente": "100332",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "4P",
+      "valor": 1900.0,
+      "alertas": "URL Contrato Ausente | Gap Cobran\u00e7a (365 dias)"
+    },
+    {
+      "id": "412",
+      "cliente": "100333",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "4P",
+      "valor": 1900.0,
+      "alertas": "URL Contrato Ausente | Gap Cobran\u00e7a (365 dias)"
+    },
+    {
+      "id": "413",
+      "cliente": "100334",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "414",
+      "cliente": "100335",
+      "plano": "NFeMais - Plano Ilimitado",
+      "periodo": "4P",
+      "valor": 1800.0,
+      "alertas": "Gap Cobran\u00e7a (365 dias)"
+    },
+    {
+      "id": "415",
+      "cliente": "100336",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "418",
+      "cliente": "100338",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "426",
+      "cliente": "100343",
+      "plano": "eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 279.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "427",
+      "cliente": "100326",
+      "plano": "Revenda NFeMais - Plano Ilimitado",
+      "periodo": "1M",
+      "valor": 150.0,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (200.0%)"
+    },
+    {
+      "id": "429",
+      "cliente": "100344",
+      "plano": "Revenda eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 200.0,
+      "alertas": "Desconto Excessivo (300.0%)"
+    },
+    {
+      "id": "433",
+      "cliente": "100348",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "434",
+      "cliente": "100156",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 129.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "435",
+      "cliente": "100349",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 300.0,
+      "alertas": "Desconto Excessivo (130.9%)"
+    },
+    {
+      "id": "439",
+      "cliente": "100352",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "441",
+      "cliente": "100349",
+      "plano": "Revenda eGestor 4 - B\u00f4nus Parceiro",
+      "periodo": "1M",
+      "valor": 0.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "442",
+      "cliente": "100353",
+      "plano": "Revenda NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 160.0,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (433.3%)"
+    },
+    {
+      "id": "443",
+      "cliente": "100354",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 500.0,
+      "alertas": "Desconto Excessivo (284.9%)"
+    },
+    {
+      "id": "444",
+      "cliente": "100355",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 200.0,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (54.0%)"
+    },
+    {
+      "id": "446",
+      "cliente": "100357",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "Gap Cobran\u00e7a (92 dias)"
+    },
+    {
+      "id": "447",
+      "cliente": "100358",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "448",
+      "cliente": "100359",
+      "plano": "eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 259.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "449",
+      "cliente": "100360",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "450",
+      "cliente": "100361",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "451",
+      "cliente": "100363",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "455",
+      "cliente": "100364",
+      "plano": "Revenda eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 100.0,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (100.0%)"
+    },
+    {
+      "id": "456",
+      "cliente": "100364",
+      "plano": "Revenda eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 100.0,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (100.0%)"
+    },
+    {
+      "id": "464",
+      "cliente": "100355",
+      "plano": "Revenda eGestor 4 - B\u00f4nus Parceiro",
+      "periodo": "1M",
+      "valor": 0.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "465",
+      "cliente": "100374",
+      "plano": "eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 279.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "478",
+      "cliente": "100384",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "479",
+      "cliente": "100385",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "480",
+      "cliente": "100386",
+      "plano": "NFeMais - Plano Ilimitado",
+      "periodo": "12M",
+      "valor": 1798.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "482",
+      "cliente": "100214",
+      "plano": "eGestor 4 - Plano Iniciante",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (52.4%)"
+    },
+    {
+      "id": "484",
+      "cliente": "100388",
+      "plano": "eGestor 4 - Plano Ultra",
+      "periodo": "12M",
+      "valor": 2351.16,
+      "alertas": "Desconto Excessivo (30.0%)"
+    },
+    {
+      "id": "485",
+      "cliente": "100389",
+      "plano": "eGestor 4 - Plano Ultra",
+      "periodo": "12M",
+      "valor": 2351.16,
+      "alertas": "Desconto Excessivo (30.0%)"
+    },
+    {
+      "id": "486",
+      "cliente": "100390",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "488",
+      "cliente": "100392",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "491",
+      "cliente": "100395",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "496",
+      "cliente": "100399",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "4P",
+      "valor": 2099.16,
+      "alertas": "Gap Cobran\u00e7a (365 dias)"
+    },
+    {
+      "id": "501",
+      "cliente": "100402",
+      "plano": "eGestor 4 - M\u00f3dulo NFe",
+      "periodo": "12M",
+      "valor": 0.01,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (100.0%)"
+    },
+    {
+      "id": "504",
+      "cliente": "100188",
+      "plano": "Revenda eGestor 4 - B\u00f4nus Parceiro",
+      "periodo": "1M",
+      "valor": 0.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "507",
+      "cliente": "100405",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "519",
+      "cliente": "100373",
+      "plano": "eGestor 4 - Plano Ouro",
+      "periodo": "12M",
+      "valor": 1150.8,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (46.7%)"
+    },
+    {
+      "id": "520",
+      "cliente": "100414",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "521",
+      "cliente": "100275",
+      "plano": "NFeMais - Plano Ilimitado",
+      "periodo": "4P",
+      "valor": 900.0,
+      "alertas": "Gap Cobran\u00e7a (365 dias)"
+    },
+    {
+      "id": "530",
+      "cliente": "100418",
+      "plano": "eGestor 4 - M\u00f3dulo PDV",
+      "periodo": "12M",
+      "valor": 287.04,
+      "alertas": "Desconto Excessivo (52.2%)"
+    },
+    {
+      "id": "532",
+      "cliente": "100420",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "536",
+      "cliente": "100422",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "538",
+      "cliente": "100424",
+      "plano": "Revenda eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 79.9,
+      "alertas": "Desconto Excessivo (59.8%)"
+    },
+    {
+      "id": "539",
+      "cliente": "100424",
+      "plano": "Revenda eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 79.9,
+      "alertas": "Desconto Excessivo (59.8%)"
+    },
+    {
+      "id": "542",
+      "cliente": "100426",
+      "plano": "NFeMais - Plano Ilimitado",
+      "periodo": "1M",
+      "valor": 149.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "545",
+      "cliente": "100429",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "555",
+      "cliente": "100439",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "4P",
+      "valor": 1000.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "556",
+      "cliente": "100402",
+      "plano": "eGestor 4 - Plano Bronze",
+      "periodo": "1M",
+      "valor": 59.9,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (45.5%) | Gap Cobran\u00e7a (62 dias)"
+    },
+    {
+      "id": "563",
+      "cliente": "100446",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "12M",
+      "valor": 1900.0,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (36.6%)"
+    },
+    {
+      "id": "566",
+      "cliente": "100449",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "568",
+      "cliente": "100321",
+      "plano": "eGestor 4 - Plano Iniciante",
+      "periodo": "3P",
+      "valor": 1871.28,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "586",
+      "cliente": "100456",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 129.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "587",
+      "cliente": "100456",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 129.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "588",
+      "cliente": "100456",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 129.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "589",
+      "cliente": "100456",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 129.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "590",
+      "cliente": "100456",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 129.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "592",
+      "cliente": "100283",
+      "plano": "eGestor 4 - Plano Ouro",
+      "periodo": "3P",
+      "valor": 1400.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "596",
+      "cliente": "100458",
+      "plano": "Revenda NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 45.0,
+      "alertas": "Desconto Excessivo (50.0%)"
+    },
+    {
+      "id": "597",
+      "cliente": "100458",
+      "plano": "Revenda NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 45.0,
+      "alertas": "Desconto Excessivo (50.0%)"
+    },
+    {
+      "id": "598",
+      "cliente": "100458",
+      "plano": "Revenda NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 45.0,
+      "alertas": "Desconto Excessivo (50.0%)"
+    },
+    {
+      "id": "599",
+      "cliente": "100458",
+      "plano": "Revenda NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 45.0,
+      "alertas": "Desconto Excessivo (50.0%)"
+    },
+    {
+      "id": "603",
+      "cliente": "100391",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 900.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "606",
+      "cliente": "100463",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "618",
+      "cliente": "100467",
+      "plano": "Revenda eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "Desconto Excessivo (99.8%)"
+    },
+    {
+      "id": "619",
+      "cliente": "100467",
+      "plano": "Revenda eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "Desconto Excessivo (99.8%)"
+    },
+    {
+      "id": "622",
+      "cliente": "100470",
+      "plano": "eGestor 4 - Plano Iniciante",
+      "periodo": "12M",
+      "valor": 1500.0,
+      "alertas": "Desconto Excessivo (40.4%)"
+    },
+    {
+      "id": "623",
+      "cliente": "100472",
+      "plano": "eGestor 4 - Plano Iniciante",
+      "periodo": "12M",
+      "valor": 1500.0,
+      "alertas": "Desconto Excessivo (40.4%)"
+    },
+    {
+      "id": "638",
+      "cliente": "100482",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "639",
+      "cliente": "100483",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "640",
+      "cliente": "100484",
+      "plano": "Revenda eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "Desconto Excessivo (99.8%)"
+    },
+    {
+      "id": "641",
+      "cliente": "100484",
+      "plano": "Revenda eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "Desconto Excessivo (99.8%)"
+    },
+    {
+      "id": "644",
+      "cliente": "100488",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "654",
+      "cliente": "100455",
+      "plano": "eGestor 4 - M\u00f3dulo PDV",
+      "periodo": "5P",
+      "valor": 503.16,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "662",
+      "cliente": "100341",
+      "plano": "eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 279.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "665",
+      "cliente": "100232",
+      "plano": "eGestor 4 - Adicional Espa\u00e7o Disco Virtual",
+      "periodo": "1M",
+      "valor": 29.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "667",
+      "cliente": "100501",
+      "plano": "eGestor 4 - Plano Bronze",
+      "periodo": "1M",
+      "valor": 156.5,
+      "alertas": "Desconto Excessivo (42.4%)"
+    },
+    {
+      "id": "670",
+      "cliente": "100503",
+      "plano": "NFeMais - Plano Ilimitado",
+      "periodo": "1M",
+      "valor": 149.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "676",
+      "cliente": "100507",
+      "plano": "eGestor 4 - Plano Iniciante",
+      "periodo": "12M",
+      "valor": 1763.16,
+      "alertas": "Desconto Excessivo (30.0%)"
+    },
+    {
+      "id": "693",
+      "cliente": "100517",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "707",
+      "cliente": "100529",
+      "plano": "eGestor 4 - Plano Iniciante",
+      "periodo": "12M",
+      "valor": 1630.98,
+      "alertas": "Desconto Excessivo (35.2%)"
+    },
+    {
+      "id": "716",
+      "cliente": "100536",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 129.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "717",
+      "cliente": "100536",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 129.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "718",
+      "cliente": "100536",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 129.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "719",
+      "cliente": "100536",
+      "plano": "Revenda NFeMais - Plano Ilimitado",
+      "periodo": "1M",
+      "valor": 50.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "720",
+      "cliente": "100536",
+      "plano": "Revenda NFeMais - Plano Ilimitado",
+      "periodo": "1M",
+      "valor": 50.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "723",
+      "cliente": "100539",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "12M",
+      "valor": 2099.16,
+      "alertas": "Desconto Excessivo (30.0%)"
+    },
+    {
+      "id": "736",
+      "cliente": "100548",
+      "plano": "NFeMais - Plano Ilimitado",
+      "periodo": "4P",
+      "valor": 1600.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "738",
+      "cliente": "100549",
+      "plano": "Site Institucional",
+      "periodo": "12M",
+      "valor": 960.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "754",
+      "cliente": "100560",
+      "plano": "eGestor 4 - M\u00f3dulo PDV",
+      "periodo": "1M",
+      "valor": 29.9,
+      "alertas": "Desconto Excessivo (50.2%)"
+    },
+    {
+      "id": "755",
+      "cliente": "100562",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 129.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "756",
+      "cliente": "100562",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 129.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "757",
+      "cliente": "100562",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 129.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "772",
+      "cliente": "100571",
+      "plano": "Revenda NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 37.5,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "773",
+      "cliente": "100571",
+      "plano": "Revenda NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 37.5,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "774",
+      "cliente": "100571",
+      "plano": "Revenda NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 37.5,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "775",
+      "cliente": "100571",
+      "plano": "Revenda NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 37.5,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "780",
+      "cliente": "100575",
+      "plano": "eGestor 4 - Plano Padr\u00e3o",
+      "periodo": "12M",
+      "valor": 1899.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "785",
+      "cliente": "100581",
+      "plano": "eGestor 4 - Plano Iniciante",
+      "periodo": "12M",
+      "valor": 1763.16,
+      "alertas": "Desconto Excessivo (30.0%)"
+    },
+    {
+      "id": "787",
+      "cliente": "100413",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "4P",
+      "valor": 995.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "788",
+      "cliente": "100582",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "789",
+      "cliente": "100583",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "790",
+      "cliente": "100584",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "793",
+      "cliente": "100586",
+      "plano": "eGestor 4 - Adicional Usu\u00e1rios",
+      "periodo": "1M",
+      "valor": 10.0,
+      "alertas": "Desconto Excessivo (80.0%)"
+    },
+    {
+      "id": "794",
+      "cliente": "100587",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 129.9,
+      "alertas": "Gap Cobran\u00e7a (61 dias)"
+    },
+    {
+      "id": "795",
+      "cliente": "100587",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 129.9,
+      "alertas": "Gap Cobran\u00e7a (61 dias)"
+    },
+    {
+      "id": "796",
+      "cliente": "100587",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 129.9,
+      "alertas": "Gap Cobran\u00e7a (61 dias)"
+    },
+    {
+      "id": "803",
+      "cliente": "100594",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "12M",
+      "valor": 1799.28,
+      "alertas": "Desconto Excessivo (40.0%)"
+    },
+    {
+      "id": "809",
+      "cliente": "100601",
+      "plano": "NFeMais - Plano Ilimitado",
+      "periodo": "1M",
+      "valor": 149.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "810",
+      "cliente": "100156",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 129.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "811",
+      "cliente": "100156",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 129.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "824",
+      "cliente": "100607",
+      "plano": "GetCommerce",
+      "periodo": "1M",
+      "valor": 299.0,
+      "alertas": "Desconto Excessivo (33.1%)"
+    },
+    {
+      "id": "825",
+      "cliente": "100608",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "826",
+      "cliente": "100609",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "828",
+      "cliente": "100585",
+      "plano": "eGestor 4 - Plano Iniciante",
+      "periodo": "1M",
+      "valor": 209.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "830",
+      "cliente": "100610",
+      "plano": "eGestor 4 - Plano Ultra",
+      "periodo": "12M",
+      "valor": 2015.28,
+      "alertas": "Desconto Excessivo (40.0%)"
+    },
+    {
+      "id": "834",
+      "cliente": "100520",
+      "plano": "eGestor 4 - Plano Ouro",
+      "periodo": "12M",
+      "valor": 2158.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "835",
+      "cliente": "100614",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "836",
+      "cliente": "100613",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "12M",
+      "valor": 2038.8,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (32.0%)"
+    },
+    {
+      "id": "837",
+      "cliente": "100613",
+      "plano": "Site Institucional",
+      "periodo": "12M",
+      "valor": 960.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "838",
+      "cliente": "100615",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 129.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "839",
+      "cliente": "100615",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 129.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "843",
+      "cliente": "100619",
+      "plano": "eGestor 4 - Plano Bronze",
+      "periodo": "1M",
+      "valor": 179.9,
+      "alertas": "Desconto Excessivo (63.7%)"
+    },
+    {
+      "id": "844",
+      "cliente": "100620",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "12M",
+      "valor": 1799.28,
+      "alertas": "Desconto Excessivo (40.0%)"
+    },
+    {
+      "id": "847",
+      "cliente": "100622",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "12M",
+      "valor": 1799.28,
+      "alertas": "Desconto Excessivo (40.0%)"
+    },
+    {
+      "id": "848",
+      "cliente": "100624",
+      "plano": "eGestor 4 - Plano Iniciante",
+      "periodo": "1M",
+      "valor": 89.9,
+      "alertas": "Desconto Excessivo (57.2%)"
+    },
+    {
+      "id": "859",
+      "cliente": "100626",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "5P",
+      "valor": 1000.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "860",
+      "cliente": "100342",
+      "plano": "NFeMais - Plano Ilimitado",
+      "periodo": "12M",
+      "valor": 1798.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "862",
+      "cliente": "100628",
+      "plano": "eGestor 4 - Plano Ultra",
+      "periodo": "12M",
+      "valor": 2015.28,
+      "alertas": "Desconto Excessivo (40.0%)"
+    },
+    {
+      "id": "863",
+      "cliente": "100629",
+      "plano": "Revenda NFeMais - Plano Ilimitado",
+      "periodo": "1M",
+      "valor": 75.9,
+      "alertas": "Desconto Excessivo (51.8%)"
+    },
+    {
+      "id": "864",
+      "cliente": "100629",
+      "plano": "Revenda NFeMais - Plano Ilimitado",
+      "periodo": "1M",
+      "valor": 75.9,
+      "alertas": "Desconto Excessivo (51.8%)"
+    },
+    {
+      "id": "865",
+      "cliente": "100629",
+      "plano": "Revenda NFeMais - Plano Ilimitado",
+      "periodo": "1M",
+      "valor": 75.9,
+      "alertas": "Desconto Excessivo (51.8%)"
+    },
+    {
+      "id": "866",
+      "cliente": "100629",
+      "plano": "Revenda NFeMais - Plano Ilimitado",
+      "periodo": "1M",
+      "valor": 75.9,
+      "alertas": "Desconto Excessivo (51.8%)"
+    },
+    {
+      "id": "868",
+      "cliente": "100633",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "881",
+      "cliente": "100636",
+      "plano": "eGestor 4 - M\u00f3dulo NFSe",
+      "periodo": "1M",
+      "valor": 24.9,
+      "alertas": "Desconto Excessivo (37.8%)"
+    },
+    {
+      "id": "883",
+      "cliente": "100638",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "884",
+      "cliente": "100639",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "888",
+      "cliente": "100643",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 839.0,
+      "alertas": "Desconto Excessivo (30.0%)"
+    },
+    {
+      "id": "896",
+      "cliente": "100485",
+      "plano": "eGestor 4 - Adicional Espa\u00e7o Disco Virtual",
+      "periodo": "12M",
+      "valor": 200.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "898",
+      "cliente": "100651",
+      "plano": "NFeMais - Plano Ilimitado",
+      "periodo": "12M",
+      "valor": 1349.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "908",
+      "cliente": "100659",
+      "plano": "NFeMais - Plano Ilimitado",
+      "periodo": "12M",
+      "valor": 1798.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "912",
+      "cliente": "100663",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "12M",
+      "valor": 2998.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "916",
+      "cliente": "100666",
+      "plano": "eGestor 4 - Plano Ouro",
+      "periodo": "12M",
+      "valor": 1511.16,
+      "alertas": "Desconto Excessivo (30.0%)"
+    },
+    {
+      "id": "917",
+      "cliente": "100667",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "927",
+      "cliente": "100673",
+      "plano": "eGestor 4 - Adicional Usu\u00e1rios",
+      "periodo": "1M",
+      "valor": 10.0,
+      "alertas": "Desconto Excessivo (80.0%)"
+    },
+    {
+      "id": "928",
+      "cliente": "100674",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "12M",
+      "valor": 2998.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "936",
+      "cliente": "100682",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 249.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "937",
+      "cliente": "100683",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "939",
+      "cliente": "100685",
+      "plano": "eGestor 4 - Plano Ultra",
+      "periodo": "12M",
+      "valor": 2015.28,
+      "alertas": "Desconto Excessivo (40.0%)"
+    },
+    {
+      "id": "947",
+      "cliente": "100688",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "12M",
+      "valor": 2099.16,
+      "alertas": "Desconto Excessivo (30.0%)"
+    },
+    {
+      "id": "948",
+      "cliente": "100689",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 890.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "956",
+      "cliente": "100694",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "12M",
+      "valor": 1949.22,
+      "alertas": "Desconto Excessivo (35.0%)"
+    },
+    {
+      "id": "957",
+      "cliente": "100695",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 900.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "958",
+      "cliente": "100696",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 130.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "959",
+      "cliente": "100696",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 130.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "961",
+      "cliente": "100698",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1000.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "963",
+      "cliente": "100700",
+      "plano": "eGestor 4 - Plano Bronze",
+      "periodo": "12M",
+      "valor": 923.16,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "964",
+      "cliente": "100700",
+      "plano": "eGestor 4 - M\u00f3dulo NFCe",
+      "periodo": "12M",
+      "valor": 252.0,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (57.9%)"
+    },
+    {
+      "id": "969",
+      "cliente": "100705",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "4P",
+      "valor": 1000.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "973",
+      "cliente": "100706",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "983",
+      "cliente": "100660",
+      "plano": "eGestor 4 - M\u00f3dulo NFe",
+      "periodo": "12M",
+      "valor": 0.01,
+      "alertas": "Desconto Excessivo (100.0%)"
+    },
+    {
+      "id": "987",
+      "cliente": "100718",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "12M",
+      "valor": 2038.8,
+      "alertas": "Desconto Excessivo (32.0%)"
+    },
+    {
+      "id": "989",
+      "cliente": "100719",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "991",
+      "cliente": "100721",
+      "plano": "NFeMais - Plano Ilimitado",
+      "periodo": "1M",
+      "valor": 149.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "992",
+      "cliente": "100722",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "994",
+      "cliente": "100724",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 100.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "995",
+      "cliente": "100724",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 100.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "996",
+      "cliente": "100404",
+      "plano": "NFeMais - Plano Ilimitado",
+      "periodo": "12M",
+      "valor": 1619.92,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1005",
+      "cliente": "100665",
+      "plano": "Revenda Site - B\u00f4nus Parceiro",
+      "periodo": "1M",
+      "valor": 0.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1006",
+      "cliente": "100729",
+      "plano": "eGestor 4 - Plano Iniciante",
+      "periodo": "1M",
+      "valor": 75.0,
+      "alertas": "Desconto Excessivo (64.3%)"
+    },
+    {
+      "id": "1014",
+      "cliente": "100737",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "12M",
+      "valor": 2038.8,
+      "alertas": "Desconto Excessivo (32.0%)"
+    },
+    {
+      "id": "1015",
+      "cliente": "100737",
+      "plano": "Site Institucional",
+      "periodo": "12M",
+      "valor": 960.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1020",
+      "cliente": "100740",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1000.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1021",
+      "cliente": "100567",
+      "plano": "NFeMais - Plano Ilimitado",
+      "periodo": "4P",
+      "valor": 1618.92,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1028",
+      "cliente": "100744",
+      "plano": "eGestor 4 - M\u00f3dulo NFCe",
+      "periodo": "4P",
+      "valor": 251.16,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1031",
+      "cliente": "100751",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "12M",
+      "valor": 2038.8,
+      "alertas": "Desconto Excessivo (32.0%)"
+    },
+    {
+      "id": "1037",
+      "cliente": "100754",
+      "plano": "eGestor 4 - Micro",
+      "periodo": "1M",
+      "valor": 109.9,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (37.5%)"
+    },
+    {
+      "id": "1040",
+      "cliente": "100757",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1041",
+      "cliente": "100758",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1045",
+      "cliente": "100761",
+      "plano": "eGestor 3 - Adicional Usu\u00e1rios",
+      "periodo": "12M",
+      "valor": 0.01,
+      "alertas": "Desconto Excessivo (100.0%)"
+    },
+    {
+      "id": "1046",
+      "cliente": "100762",
+      "plano": "eGestor 4 - Plano Ultra",
+      "periodo": "4P",
+      "valor": 2998.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1050",
+      "cliente": "100764",
+      "plano": "Revenda NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 40.0,
+      "alertas": "Desconto Excessivo (33.3%)"
+    },
+    {
+      "id": "1051",
+      "cliente": "100764",
+      "plano": "Revenda NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 40.0,
+      "alertas": "Desconto Excessivo (33.3%)"
+    },
+    {
+      "id": "1052",
+      "cliente": "100764",
+      "plano": "Revenda NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 40.0,
+      "alertas": "Desconto Excessivo (33.3%)"
+    },
+    {
+      "id": "1053",
+      "cliente": "100764",
+      "plano": "Revenda NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 40.0,
+      "alertas": "Desconto Excessivo (33.3%)"
+    },
+    {
+      "id": "1054",
+      "cliente": "100764",
+      "plano": "Revenda NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 40.0,
+      "alertas": "Desconto Excessivo (33.3%)"
+    },
+    {
+      "id": "1055",
+      "cliente": "100765",
+      "plano": "eGestor 4 - Plano Bronze",
+      "periodo": "1M",
+      "valor": 109.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1056",
+      "cliente": "100765",
+      "plano": "Site Institucional",
+      "periodo": "1M",
+      "valor": 80.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1061",
+      "cliente": "100769",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1062",
+      "cliente": "100770",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1064",
+      "cliente": "100771",
+      "plano": "eGestor 4 - Adicional Usu\u00e1rios",
+      "periodo": "12M",
+      "valor": 0.01,
+      "alertas": "Desconto Excessivo (100.0%)"
+    },
+    {
+      "id": "1065",
+      "cliente": "100772",
+      "plano": "eGestor 4 - Plano Ouro",
+      "periodo": "5P",
+      "valor": 2000.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1066",
+      "cliente": "100773",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "12M",
+      "valor": 2099.16,
+      "alertas": "Desconto Excessivo (30.0%)"
+    },
+    {
+      "id": "1067",
+      "cliente": "100774",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "12M",
+      "valor": 2099.16,
+      "alertas": "Desconto Excessivo (30.0%)"
+    },
+    {
+      "id": "1068",
+      "cliente": "100774",
+      "plano": "eGestor 4 - M\u00f3dulo NFSe",
+      "periodo": "12M",
+      "valor": 0.01,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (100.0%)"
+    },
+    {
+      "id": "1069",
+      "cliente": "100773",
+      "plano": "eGestor 4 - M\u00f3dulo NFSe",
+      "periodo": "12M",
+      "valor": 0.01,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (100.0%)"
+    },
+    {
+      "id": "1070",
+      "cliente": "100654",
+      "plano": "NFeMais - Plano Ilimitado",
+      "periodo": "12M",
+      "valor": 1798.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1075",
+      "cliente": "100777",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1077",
+      "cliente": "100779",
+      "plano": "NFeMais - Plano Ilimitado",
+      "periodo": "12M",
+      "valor": 1798.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1078",
+      "cliente": "100686",
+      "plano": "eGestor 4 - Plano Ouro",
+      "periodo": "1M",
+      "valor": 119.9,
+      "alertas": "Desconto Excessivo (33.4%)"
+    },
+    {
+      "id": "1080",
+      "cliente": "100781",
+      "plano": "eGestor 4 - Plano Iniciante",
+      "periodo": "1M",
+      "valor": 209.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1082",
+      "cliente": "100782",
+      "plano": "GetCommerce",
+      "periodo": "1M",
+      "valor": 299.0,
+      "alertas": "Desconto Excessivo (33.1%)"
+    },
+    {
+      "id": "1083",
+      "cliente": "100783",
+      "plano": "eGestor 4 - Plano Iniciante",
+      "periodo": "12M",
+      "valor": 2518.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1087",
+      "cliente": "100786",
+      "plano": "NFeMais - Plano Ilimitado",
+      "periodo": "12M",
+      "valor": 1798.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1089",
+      "cliente": "100788",
+      "plano": "eGestor 4 - Plano Iniciante",
+      "periodo": "12M",
+      "valor": 1763.16,
+      "alertas": "Desconto Excessivo (30.0%)"
+    },
+    {
+      "id": "1091",
+      "cliente": "100790",
+      "plano": "NFeMais - Plano Ilimitado",
+      "periodo": "1M",
+      "valor": 149.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1102",
+      "cliente": "100410",
+      "plano": "Revenda Site - B\u00f4nus Parceiro",
+      "periodo": "1M",
+      "valor": 0.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1107",
+      "cliente": "100801",
+      "plano": "eGestor 4 - Plano Bronze",
+      "periodo": "12M",
+      "valor": 950.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1108",
+      "cliente": "100801",
+      "plano": "eGestor 4 - M\u00f3dulo NFe",
+      "periodo": "12M",
+      "valor": 0.01,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (100.0%)"
+    },
+    {
+      "id": "1139",
+      "cliente": "100200",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "2P",
+      "valor": 2399.04,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1144",
+      "cliente": "100818",
+      "plano": "eGestor 4 - Plano Ultra",
+      "periodo": "12M",
+      "valor": 2351.16,
+      "alertas": "Desconto Excessivo (30.0%)"
+    },
+    {
+      "id": "1145",
+      "cliente": "100819",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "12M",
+      "valor": 2038.8,
+      "alertas": "Desconto Excessivo (32.0%)"
+    },
+    {
+      "id": "1157",
+      "cliente": "100513",
+      "plano": "eGestor 4 - Adicional Usu\u00e1rios",
+      "periodo": "12M",
+      "valor": 0.01,
+      "alertas": "Desconto Excessivo (100.0%)"
+    },
+    {
+      "id": "1160",
+      "cliente": "100827",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "4P",
+      "valor": 1000.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1164",
+      "cliente": "100803",
+      "plano": "eGestor 4 - Plano Iniciante",
+      "periodo": "12M",
+      "valor": 1763.16,
+      "alertas": "Desconto Excessivo (30.0%)"
+    },
+    {
+      "id": "1168",
+      "cliente": "100829",
+      "plano": "eGestor 4 - Plano Bronze",
+      "periodo": "1M",
+      "valor": 69.9,
+      "alertas": "Desconto Excessivo (36.4%)"
+    },
+    {
+      "id": "1173",
+      "cliente": "100836",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 100.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1174",
+      "cliente": "100836",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 100.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1175",
+      "cliente": "100836",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 100.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1177",
+      "cliente": "100838",
+      "plano": "eGestor 4 - Plano Bronze",
+      "periodo": "1M",
+      "valor": 69.9,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (36.4%)"
+    },
+    {
+      "id": "1178",
+      "cliente": "100840",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1182",
+      "cliente": "100288",
+      "plano": "eGestor 4 - Plano Ultra",
+      "periodo": "12M",
+      "valor": 2998.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1185",
+      "cliente": "100845",
+      "plano": "NFeMais - Plano Ilimitado",
+      "periodo": "12M",
+      "valor": 1798.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1188",
+      "cliente": "100847",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1192",
+      "cliente": "100851",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1194",
+      "cliente": "100853",
+      "plano": "NFeMais - Plano Ilimitado",
+      "periodo": "12M",
+      "valor": 999.0,
+      "alertas": "Desconto Excessivo (44.5%)"
+    },
+    {
+      "id": "1196",
+      "cliente": "100637",
+      "plano": "eGestor 4 - Plano Ouro",
+      "periodo": "1M",
+      "valor": 159.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1197",
+      "cliente": "100856",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1203",
+      "cliente": "100855",
+      "plano": "eGestor 4 - M\u00f3dulo Produ\u00e7\u00e3o",
+      "periodo": "1M",
+      "valor": 29.9,
+      "alertas": "Desconto Excessivo (40.1%)"
+    },
+    {
+      "id": "1205",
+      "cliente": "100858",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 90.0,
+      "alertas": "Desconto Excessivo (30.7%)"
+    },
+    {
+      "id": "1206",
+      "cliente": "100858",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 90.0,
+      "alertas": "Desconto Excessivo (30.7%)"
+    },
+    {
+      "id": "1211",
+      "cliente": "100862",
+      "plano": "eGestor 4 - Plano Prata",
+      "periodo": "12M",
+      "valor": 1528.98,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1214",
+      "cliente": "100865",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 100.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1215",
+      "cliente": "100865",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 100.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1219",
+      "cliente": "100550",
+      "plano": "Site Institucional",
+      "periodo": "1M",
+      "valor": 129.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1220",
+      "cliente": "100868",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1222",
+      "cliente": "100872",
+      "plano": "Revenda eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 100.0,
+      "alertas": "Desconto Excessivo (100.0%)"
+    },
+    {
+      "id": "1223",
+      "cliente": "100872",
+      "plano": "Revenda eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 100.0,
+      "alertas": "Desconto Excessivo (100.0%)"
+    },
+    {
+      "id": "1225",
+      "cliente": "100884",
+      "plano": "NFeMais - Plano Ilimitado",
+      "periodo": "12M",
+      "valor": 1798.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1226",
+      "cliente": "100885",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1227",
+      "cliente": "100886",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1238",
+      "cliente": "100893",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 249.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1239",
+      "cliente": "100894",
+      "plano": "eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 279.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1241",
+      "cliente": "100857",
+      "plano": "Site Institucional",
+      "periodo": "5P",
+      "valor": 960.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1243",
+      "cliente": "100895",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 249.9,
+      "alertas": "Gap Cobran\u00e7a (62 dias)"
+    },
+    {
+      "id": "1251",
+      "cliente": "100902",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1000.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1255",
+      "cliente": "100906",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1258",
+      "cliente": "100908",
+      "plano": "eGestor 4 - M\u00f3dulo NFSe",
+      "periodo": "12M",
+      "valor": 0.01,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (100.0%)"
+    },
+    {
+      "id": "1262",
+      "cliente": "100911",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 249.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1263",
+      "cliente": "100910",
+      "plano": "eGestor 4 - Plano Prata",
+      "periodo": "1M",
+      "valor": 169.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1270",
+      "cliente": "100915",
+      "plano": "GetCommerce",
+      "periodo": "12M",
+      "valor": 2388.0,
+      "alertas": "Desconto Excessivo (55.5%)"
+    },
+    {
+      "id": "1278",
+      "cliente": "100920",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "12M",
+      "valor": 2099.16,
+      "alertas": "Desconto Excessivo (30.0%)"
+    },
+    {
+      "id": "1280",
+      "cliente": "100922",
+      "plano": "eGestor 4 - Plano Iniciante",
+      "periodo": "1M",
+      "valor": 109.9,
+      "alertas": "Desconto Excessivo (47.6%)"
+    },
+    {
+      "id": "1282",
+      "cliente": "100924",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1287",
+      "cliente": "100926",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 129.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1288",
+      "cliente": "100926",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 129.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1289",
+      "cliente": "100926",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 129.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1290",
+      "cliente": "100926",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 129.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1291",
+      "cliente": "100926",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 129.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1292",
+      "cliente": "100926",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 129.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1293",
+      "cliente": "100926",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 129.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1294",
+      "cliente": "100926",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 129.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1295",
+      "cliente": "100926",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 129.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1299",
+      "cliente": "100927",
+      "plano": "eGestor 4 - M\u00f3dulo NFSe",
+      "periodo": "1M",
+      "valor": 0.01,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (100.0%)"
+    },
+    {
+      "id": "1305",
+      "cliente": "100932",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "12M",
+      "valor": 2998.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1306",
+      "cliente": "100933",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1307",
+      "cliente": "100934",
+      "plano": "Revenda eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 75.9,
+      "alertas": "Desconto Excessivo (51.8%)"
+    },
+    {
+      "id": "1308",
+      "cliente": "100934",
+      "plano": "Revenda eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 75.9,
+      "alertas": "Desconto Excessivo (51.8%)"
+    },
+    {
+      "id": "1309",
+      "cliente": "100935",
+      "plano": "eGestor 4 - Plano Ultra",
+      "periodo": "12M",
+      "valor": 2351.16,
+      "alertas": "Desconto Excessivo (30.0%)"
+    },
+    {
+      "id": "1312",
+      "cliente": "100938",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1313",
+      "cliente": "100939",
+      "plano": "Revenda eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "Desconto Excessivo (99.8%)"
+    },
+    {
+      "id": "1314",
+      "cliente": "100939",
+      "plano": "Revenda eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "Desconto Excessivo (99.8%)"
+    },
+    {
+      "id": "1315",
+      "cliente": "100940",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 109.9,
+      "alertas": "Desconto Excessivo (56.0%)"
+    },
+    {
+      "id": "1318",
+      "cliente": "100944",
+      "plano": "eGestor 4 - Plano Bronze",
+      "periodo": "12M",
+      "valor": 755.5,
+      "alertas": "Desconto Excessivo (42.7%)"
+    },
+    {
+      "id": "1321",
+      "cliente": "100946",
+      "plano": "eGestor 4 - Plano Padr\u00e3o",
+      "periodo": "1M",
+      "valor": 95.0,
+      "alertas": "Desconto Excessivo (38.7%)"
+    },
+    {
+      "id": "1322",
+      "cliente": "100931",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 90.0,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (30.7%)"
+    },
+    {
+      "id": "1323",
+      "cliente": "100931",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 90.0,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (30.7%)"
+    },
+    {
+      "id": "1324",
+      "cliente": "100931",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 90.0,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (30.7%)"
+    },
+    {
+      "id": "1325",
+      "cliente": "100931",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 90.0,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (30.7%)"
+    },
+    {
+      "id": "1326",
+      "cliente": "100948",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "12M",
+      "valor": 2099.16,
+      "alertas": "Desconto Excessivo (30.0%)"
+    },
+    {
+      "id": "1329",
+      "cliente": "100948",
+      "plano": "Site Institucional",
+      "periodo": "12M",
+      "valor": 1800.0,
+      "alertas": "Desconto Excessivo (87.5%)"
+    },
+    {
+      "id": "1333",
+      "cliente": "100951",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1355",
+      "cliente": "100963",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1359",
+      "cliente": "100965",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 150.0,
+      "alertas": "Desconto Excessivo (40.0%)"
+    },
+    {
+      "id": "1365",
+      "cliente": "100969",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1369",
+      "cliente": "100971",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "12M",
+      "valor": 2099.16,
+      "alertas": "Desconto Excessivo (30.0%)"
+    },
+    {
+      "id": "1370",
+      "cliente": "100972",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1372",
+      "cliente": "100974",
+      "plano": "eGestor 4 - Plano Bronze",
+      "periodo": "5P",
+      "valor": 1006.32,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1373",
+      "cliente": "100974",
+      "plano": "Site Institucional",
+      "periodo": "5P",
+      "valor": 960.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1375",
+      "cliente": "100976",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1379",
+      "cliente": "100950",
+      "plano": "Revenda Site - Parceiro",
+      "periodo": "1M",
+      "valor": 70.0,
+      "alertas": "Desconto Excessivo (53.3%)"
+    },
+    {
+      "id": "1381",
+      "cliente": "100979",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "12M",
+      "valor": 2998.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1382",
+      "cliente": "100980",
+      "plano": "NFeMais - Plano Ilimitado",
+      "periodo": "12M",
+      "valor": 1798.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1383",
+      "cliente": "100981",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1384",
+      "cliente": "100982",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 249.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1387",
+      "cliente": "100985",
+      "plano": "Revenda eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 90.0,
+      "alertas": "Desconto Excessivo (80.0%)"
+    },
+    {
+      "id": "1388",
+      "cliente": "100985",
+      "plano": "Revenda eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 90.0,
+      "alertas": "Desconto Excessivo (80.0%)"
+    },
+    {
+      "id": "1389",
+      "cliente": "100985",
+      "plano": "Revenda eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 90.0,
+      "alertas": "Desconto Excessivo (80.0%)"
+    },
+    {
+      "id": "1393",
+      "cliente": "100987",
+      "plano": "Revenda NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 49.9,
+      "alertas": "Desconto Excessivo (66.3%)"
+    },
+    {
+      "id": "1394",
+      "cliente": "100989",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 650.0,
+      "alertas": "Desconto Excessivo (45.8%)"
+    },
+    {
+      "id": "1395",
+      "cliente": "100987",
+      "plano": "Revenda NFeMais - Plano Ilimitado",
+      "periodo": "1M",
+      "valor": 75.9,
+      "alertas": "Desconto Excessivo (51.8%)"
+    },
+    {
+      "id": "1411",
+      "cliente": "100803",
+      "plano": "eGestor 4 - M\u00f3dulo NFe",
+      "periodo": "12M",
+      "valor": 329.9,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (44.9%)"
+    },
+    {
+      "id": "1415",
+      "cliente": "100998",
+      "plano": "eGestor 4 - Plano Padr\u00e3o",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "Desconto Excessivo (35.5%)"
+    },
+    {
+      "id": "1420",
+      "cliente": "100999",
+      "plano": "eGestor 4 - M\u00f3dulo MDFe",
+      "periodo": "1M",
+      "valor": 24.9,
+      "alertas": "Desconto Excessivo (50.1%)"
+    },
+    {
+      "id": "1422",
+      "cliente": "101001",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1423",
+      "cliente": "101002",
+      "plano": "eGestor 4 - Micro",
+      "periodo": "12M",
+      "valor": 1318.8,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (37.5%)"
+    },
+    {
+      "id": "1434",
+      "cliente": "101011",
+      "plano": "NFeMais - Plano Ilimitado",
+      "periodo": "1M",
+      "valor": 149.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1444",
+      "cliente": "101018",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 839.16,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1446",
+      "cliente": "101020",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 839.16,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1448",
+      "cliente": "101021",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 839.16,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1453",
+      "cliente": "101022",
+      "plano": "Revenda NFeMais - Plano Ilimitado",
+      "periodo": "1M",
+      "valor": 45.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1454",
+      "cliente": "101022",
+      "plano": "Revenda NFeMais - Plano Ilimitado",
+      "periodo": "1M",
+      "valor": 45.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1455",
+      "cliente": "101022",
+      "plano": "Revenda NFeMais - Plano Ilimitado",
+      "periodo": "1M",
+      "valor": 45.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1469",
+      "cliente": "101023",
+      "plano": "Revenda Site - B\u00f4nus Parceiro",
+      "periodo": "1M",
+      "valor": 0.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1475",
+      "cliente": "101028",
+      "plano": "eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 279.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1476",
+      "cliente": "101029",
+      "plano": "Revenda NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 50.0,
+      "alertas": "Desconto Excessivo (66.7%)"
+    },
+    {
+      "id": "1477",
+      "cliente": "101029",
+      "plano": "Revenda NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 50.0,
+      "alertas": "Desconto Excessivo (66.7%)"
+    },
+    {
+      "id": "1478",
+      "cliente": "101029",
+      "plano": "Revenda NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 50.0,
+      "alertas": "Desconto Excessivo (66.7%)"
+    },
+    {
+      "id": "1483",
+      "cliente": "100956",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "4P",
+      "valor": 940.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1489",
+      "cliente": "101039",
+      "plano": "eGestor 4 - Micro",
+      "periodo": "1M",
+      "valor": 109.9,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (37.5%)"
+    },
+    {
+      "id": "1492",
+      "cliente": "101042",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 249.9,
+      "alertas": "Gap Cobran\u00e7a (90 dias)"
+    },
+    {
+      "id": "1493",
+      "cliente": "101043",
+      "plano": "eGestor 4 - Plano Bronze",
+      "periodo": "4P",
+      "valor": 989.1,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1495",
+      "cliente": "101044",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1496",
+      "cliente": "101045",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1499",
+      "cliente": "101046",
+      "plano": "eGestor 4 - Micro",
+      "periodo": "12M",
+      "valor": 1318.8,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (37.5%)"
+    },
+    {
+      "id": "1502",
+      "cliente": "101049",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1503",
+      "cliente": "101048",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "3P",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1514",
+      "cliente": "101056",
+      "plano": "eGestor 4 - Plano Padr\u00e3o",
+      "periodo": "1M",
+      "valor": 238.0,
+      "alertas": "Desconto Excessivo (53.5%)"
+    },
+    {
+      "id": "1516",
+      "cliente": "100854",
+      "plano": "eGestor 4 - M\u00f3dulo Produ\u00e7\u00e3o",
+      "periodo": "4P",
+      "valor": 598.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1517",
+      "cliente": "101057",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1518",
+      "cliente": "101058",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1519",
+      "cliente": "101059",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1520",
+      "cliente": "101060",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1522",
+      "cliente": "101061",
+      "plano": "NFeMais - Plano Ilimitado",
+      "periodo": "1M",
+      "valor": 149.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1523",
+      "cliente": "101062",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1524",
+      "cliente": "101064",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1528",
+      "cliente": "100424",
+      "plano": "Revenda eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 79.9,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (59.8%)"
+    },
+    {
+      "id": "1530",
+      "cliente": "100403",
+      "plano": "Revenda eGestor 4 - Plano Ultra",
+      "periodo": "1M",
+      "valor": 100.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1532",
+      "cliente": "101069",
+      "plano": "eGestor 4 - Plano Bronze",
+      "periodo": "1M",
+      "valor": 75.0,
+      "alertas": "Desconto Excessivo (31.8%)"
+    },
+    {
+      "id": "1539",
+      "cliente": "101074",
+      "plano": "Site Institucional",
+      "periodo": "1M",
+      "valor": 229.9,
+      "alertas": "Desconto Excessivo (129.9%)"
+    },
+    {
+      "id": "1544",
+      "cliente": "101077",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1547",
+      "cliente": "100763",
+      "plano": "eGestor 4 - Plano Ultra",
+      "periodo": "12M",
+      "valor": 2450.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1548",
+      "cliente": "101078",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1550",
+      "cliente": "101080",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1552",
+      "cliente": "100761",
+      "plano": "eGestor 4 - Plano Ouro",
+      "periodo": "12M",
+      "valor": 1619.1,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1553",
+      "cliente": "101081",
+      "plano": "eGestor 4 - Plano Iniciante",
+      "periodo": "12M",
+      "valor": 1763.16,
+      "alertas": "Desconto Excessivo (30.0%)"
+    },
+    {
+      "id": "1554",
+      "cliente": "101082",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1555",
+      "cliente": "100860",
+      "plano": "Revenda eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 80.0,
+      "alertas": "Desconto Excessivo (60.0%)"
+    },
+    {
+      "id": "1556",
+      "cliente": "100860",
+      "plano": "Revenda eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 80.0,
+      "alertas": "Desconto Excessivo (60.0%)"
+    },
+    {
+      "id": "1565",
+      "cliente": "101023",
+      "plano": "Revenda eGestor 4 - B\u00f4nus Parceiro",
+      "periodo": "1M",
+      "valor": 0.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1566",
+      "cliente": "101086",
+      "plano": "eGestor 4 - Plano Padr\u00e3o",
+      "periodo": "5P",
+      "valor": 2014.35,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1569",
+      "cliente": "100975",
+      "plano": "eGestor 4 - Plano Ouro",
+      "periodo": "12M",
+      "valor": 2158.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1570",
+      "cliente": "101089",
+      "plano": "Revenda NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 49.9,
+      "alertas": "Desconto Excessivo (66.3%)"
+    },
+    {
+      "id": "1571",
+      "cliente": "101089",
+      "plano": "Revenda NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 49.9,
+      "alertas": "Desconto Excessivo (66.3%)"
+    },
+    {
+      "id": "1572",
+      "cliente": "101089",
+      "plano": "Revenda NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 49.9,
+      "alertas": "Desconto Excessivo (66.3%)"
+    },
+    {
+      "id": "1573",
+      "cliente": "101089",
+      "plano": "Revenda NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 49.9,
+      "alertas": "Desconto Excessivo (66.3%)"
+    },
+    {
+      "id": "1574",
+      "cliente": "101089",
+      "plano": "Revenda NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 49.9,
+      "alertas": "Desconto Excessivo (66.3%)"
+    },
+    {
+      "id": "1575",
+      "cliente": "101089",
+      "plano": "Revenda NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 49.9,
+      "alertas": "Desconto Excessivo (66.3%)"
+    },
+    {
+      "id": "1576",
+      "cliente": "101089",
+      "plano": "Revenda NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 49.9,
+      "alertas": "Desconto Excessivo (66.3%)"
+    },
+    {
+      "id": "1577",
+      "cliente": "101089",
+      "plano": "Revenda NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 49.9,
+      "alertas": "Desconto Excessivo (66.3%)"
+    },
+    {
+      "id": "1578",
+      "cliente": "101089",
+      "plano": "Revenda NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 49.9,
+      "alertas": "Desconto Excessivo (66.3%)"
+    },
+    {
+      "id": "1579",
+      "cliente": "101089",
+      "plano": "Revenda NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 49.9,
+      "alertas": "Desconto Excessivo (66.3%)"
+    },
+    {
+      "id": "1580",
+      "cliente": "101089",
+      "plano": "Revenda NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 49.9,
+      "alertas": "Desconto Excessivo (66.3%)"
+    },
+    {
+      "id": "1589",
+      "cliente": "101095",
+      "plano": "eGestor 4 - Plano Bronze",
+      "periodo": "12M",
+      "valor": 1677.6,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1593",
+      "cliente": "101097",
+      "plano": "Revenda eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 100.0,
+      "alertas": "Desconto Excessivo (100.0%)"
+    },
+    {
+      "id": "1594",
+      "cliente": "101097",
+      "plano": "Revenda eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 100.0,
+      "alertas": "Desconto Excessivo (100.0%)"
+    },
+    {
+      "id": "1599",
+      "cliente": "101102",
+      "plano": "NFeMais - Plano Ilimitado",
+      "periodo": "12M",
+      "valor": 1798.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1600",
+      "cliente": "101103",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1601",
+      "cliente": "101104",
+      "plano": "eGestor 4 - Micro",
+      "periodo": "1M",
+      "valor": 109.9,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (37.5%)"
+    },
+    {
+      "id": "1602",
+      "cliente": "101105",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1604",
+      "cliente": "101107",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1605",
+      "cliente": "101109",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1607",
+      "cliente": "101110",
+      "plano": "eGestor 3 - Plano Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 249.9,
+      "alertas": "Desconto Excessivo (66.7%)"
+    },
+    {
+      "id": "1610",
+      "cliente": "101111",
+      "plano": "NFeMais - Plano Iniciante",
+      "periodo": "1M",
+      "valor": 77.9,
+      "alertas": "Desconto Excessivo (30.1%)"
+    },
+    {
+      "id": "1614",
+      "cliente": "100423",
+      "plano": "eGestor 4 - Plano Ultra",
+      "periodo": "4P",
+      "valor": 3022.92,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1618",
+      "cliente": "101118",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 99.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1620",
+      "cliente": "101120",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1622",
+      "cliente": "101123",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1631",
+      "cliente": "101050",
+      "plano": "Revenda NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 49.9,
+      "alertas": "URL Contrato Ausente | Desconto Excessivo (66.3%)"
+    },
+    {
+      "id": "1634",
+      "cliente": "101129",
+      "plano": "Revenda eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 80.0,
+      "alertas": "Desconto Excessivo (60.0%)"
+    },
+    {
+      "id": "1635",
+      "cliente": "101129",
+      "plano": "Revenda eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 80.0,
+      "alertas": "Desconto Excessivo (60.0%)"
+    },
+    {
+      "id": "1641",
+      "cliente": "101133",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1649",
+      "cliente": "101141",
+      "plano": "Site Institucional",
+      "periodo": "5P",
+      "valor": 960.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1651",
+      "cliente": "101142",
+      "plano": "eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "12M",
+      "valor": 1899.9,
+      "alertas": "Desconto Excessivo (36.6%)"
+    },
+    {
+      "id": "1652",
+      "cliente": "101143",
+      "plano": "NFeMais - Plano Iniciante",
+      "periodo": "12M",
+      "valor": 934.8,
+      "alertas": "Desconto Excessivo (30.1%)"
+    },
+    {
+      "id": "1656",
+      "cliente": "101145",
+      "plano": "Revenda NFeMais - Plano B\u00e1sico",
+      "periodo": "1M",
+      "valor": 49.9,
+      "alertas": "Desconto Excessivo (66.3%)"
+    },
+    {
+      "id": "1657",
+      "cliente": "100630",
+      "plano": "NFeMais - Plano Ilimitado",
+      "periodo": "12M",
+      "valor": 1798.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1664",
+      "cliente": "101148",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1665",
+      "cliente": "101149",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1667",
+      "cliente": "101130",
+      "plano": "Revenda eGestor 4 - B\u00f4nus Parceiro",
+      "periodo": "1M",
+      "valor": 0.0,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1668",
+      "cliente": "101151",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1669",
+      "cliente": "101153",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1681",
+      "cliente": "101161",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1683",
+      "cliente": "101163",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1685",
+      "cliente": "101165",
+      "plano": "Revenda NFeMais - Plano Ilimitado",
+      "periodo": "1M",
+      "valor": 75.9,
+      "alertas": "Desconto Excessivo (51.8%)"
+    },
+    {
+      "id": "1686",
+      "cliente": "101165",
+      "plano": "Revenda NFeMais - Plano Ilimitado",
+      "periodo": "1M",
+      "valor": 75.9,
+      "alertas": "Desconto Excessivo (51.8%)"
+    },
+    {
+      "id": "1688",
+      "cliente": "101168",
+      "plano": "eGestor 4 - Plano Bronze",
+      "periodo": "1M",
+      "valor": 119.9,
+      "alertas": "Gap Cobran\u00e7a (62 dias)"
+    },
+    {
+      "id": "1691",
+      "cliente": "101170",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 720.0,
+      "alertas": "Desconto Excessivo (39.9%)"
+    },
+    {
+      "id": "1695",
+      "cliente": "100562",
+      "plano": "Revenda NFeMais - Plano Ilimitado",
+      "periodo": "1M",
+      "valor": 49.9,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1696",
+      "cliente": "101172",
+      "plano": "Revenda eGestor 4 - Plano Avan\u00e7ado",
+      "periodo": "1M",
+      "valor": 100.0,
+      "alertas": "Desconto Excessivo (100.0%)"
+    },
+    {
+      "id": "1700",
+      "cliente": "101174",
+      "plano": "eGestor 4 - Plano Bronze",
+      "periodo": "4P",
+      "valor": 1055.04,
+      "alertas": "URL Contrato Ausente"
+    },
+    {
+      "id": "1703",
+      "cliente": "101177",
+      "plano": "NFeMais - Plano B\u00e1sico",
+      "periodo": "12M",
+      "valor": 1198.8,
+      "alertas": "URL Contrato Ausente"
+    }
+  ]
 }
